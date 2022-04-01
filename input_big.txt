@@ -1,0 +1,10005 @@
+100 110
+5000 3
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 3 G
+0 G G G G G G G 0 G G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 3 B
+B 0 B 0 B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 3 B
+B 0 B 0 B B
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 3 B
+B 0 B 0 B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+1 4 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 3 B
+B 0 B 0 B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 3 G
+0 G G G G G G G 0 G G 0
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+2 3 B
+B 0 B 0 B B
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+1 4 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 3 B
+B 0 B 0 B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 3 B
+B 0 B 0 B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 3 B
+B 0 B 0 B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 3 B
+B 0 B 0 B B
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+2 3 B
+B 0 B 0 B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 3 G
+0 G G G G G G G 0 G G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 3 B
+B 0 B 0 B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 3 B
+B 0 B 0 B B
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 3 B
+B 0 B 0 B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+1 4 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 3 B
+B 0 B 0 B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+1 4 B
+B B B B
+2 3 B
+B 0 B 0 B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 3 B
+B 0 B 0 B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+3 2 B
+B B B B 0 0
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+3 2 B
+B B B B 0 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+3 2 B
+B B B B 0 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 1 B
+B B B B
+4 3 G
+0 G G G G G G G 0 G G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 3 G
+0 G G G G G G G 0 G G 0
+4 1 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+3 4 G
+G G 0 G G G G G G 0 G 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 1 B
+B B B B
+4 2 Y
+0 0 Y 0 Y Y Y Y
+4 3 G
+0 G G G G G G G 0 G G 0
+4 3 G
+0 G G G G G G G 0 G G 0
+3 2 B
+B B B B 0 0
+4 1 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 4 B
+B B B B
+4 1 B
+B B B B
+2 3 B
+B 0 B 0 B B
+1 4 B
+B B B B
+1 4 B
+B B B B
+3 4 G
+G G 0 G G G G G G 0 G 0
+3 4 G
+G G 0 G G G G G G 0 G 0
+1 4 B
+B B B B
+3 2 B
+B B B B 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+3 2 B
+B B B B 0 0
+1 4 B
+B B B B
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+B 3 3
+Y 6 2
+G 2 10
