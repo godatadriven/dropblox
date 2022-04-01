@@ -1,0 +1,3014 @@
+100 100
+1500 6
+5 4 P
+P 0 P P P P 0 P 0 P P 0 P 0 P P P P 0 P
+3 3 O
+O 0 0 O O O 0 0 O
+6 5 P
+0 0 P 0 0 0 0 P P P P P P P P P P P 0 P P P P P 0 0 P 0 0 0
+3 3 O
+O O O O 0 O O O O
+2 1 G
+G G
+6 5 P
+0 P 0 0 0 0 P P 0 0 0 0 P P P P P P P P 0 P P 0 0 P 0 0 0 0
+3 2 Y
+0 Y 0 0 Y Y
+3 5 P
+P P P 0 P 0 0 P 0 P P P 0 P 0
+4 3 Y
+Y 0 0 0 Y Y Y Y 0 0 0 Y
+5 5 O
+0 0 O 0 0 0 O O O 0 O O 0 O O 0 O O O 0 0 0 O 0 0
+3 3 O
+O O O O 0 0 O O 0
+4 3 P
+0 0 P P 0 P P 0 P P 0 0
+2 3 O
+O O O 0 O O
+5 6 P
+0 0 P 0 0 0 P P 0 0 0 P P 0 0 0 0 P 0 0 P P P P P 0 P P P 0
+3 5 R
+R R R R R 0 R 0 R R R R 0 R 0
+4 2 G
+G G G G 0 0 G 0
+2 3 G
+G G G G G 0
+5 3 O
+0 O 0 0 O O O O O O O 0 O 0 0
+5 6 P
+0 P P P 0 P P P P P 0 0 P 0 0 0 0 P P 0 0 0 P P 0 0 0 P 0 0
+1 4 Y
+Y Y Y Y
+2 3 Y
+Y Y Y 0 Y Y
+3 3 O
+O O O O 0 O O O O
+3 3 O
+O O O O 0 O O O O
+3 3 Y
+0 Y 0 0 Y 0 Y Y Y
+4 3 O
+O O O O O 0 0 O O O O O
+3 4 O
+0 0 O 0 O O O O 0 O 0 0
+3 3 G
+0 G 0 G G G 0 G 0
+2 4 Y
+0 Y Y Y Y Y 0 Y
+4 5 O
+O 0 0 0 O O 0 0 0 O O 0 0 0 O O 0 0 0 O
+5 5 P
+P 0 P P P P 0 P 0 P 0 0 P 0 0 P P P P P P P 0 P P
+4 6 O
+O O 0 0 O O 0 0 0 O O 0 0 O O 0 0 0 O O 0 0 O O
+3 3 Y
+0 0 Y Y Y Y Y 0 0
+3 4 O
+O 0 0 O O 0 0 O O 0 0 O
+3 3 G
+G 0 0 G G G G 0 0
+3 3 O
+O O O O 0 O O O O
+5 5 P
+P P 0 P P P P 0 0 0 0 P P P P P P 0 0 P P P 0 P P
+5 3 P
+P 0 P 0 0 P P P P P 0 P 0 0 P
+6 4 P
+0 0 0 0 P P 0 0 P P P P P P P P 0 0 P P 0 0 0 0
+4 2 Y
+0 0 Y 0 Y Y Y Y
+5 3 O
+0 0 O 0 O O O O O O O 0 0 O 0
+4 5 P
+0 0 0 P 0 0 P P 0 P P 0 P P 0 0 P 0 0 0
+6 5 P
+0 0 0 P 0 0 P P P P P 0 P P P P P P P P P P P 0 0 0 0 P 0 0
+4 6 P
+0 0 P P 0 0 P P 0 P P 0 0 P P 0 P P 0 0 P P 0 0
+3 2 G
+G G G 0 G G
+3 3 O
+0 O O 0 0 O O O O
+4 2 G
+0 G 0 0 G G G G
+5 5 R
+0 R 0 0 0 0 R 0 R 0 R R R R 0 R 0 R R R 0 0 0 0 R
+6 4 P
+P P 0 0 0 0 P P P P 0 0 0 0 P P P P 0 0 0 0 P P
+2 3 G
+0 G G G G G
+2 4 Y
+Y 0 Y Y Y Y Y 0
+3 2 O
+O 0 O O O O
+1 2 G
+G G
+3 5 O
+O O O 0 O 0 0 O 0 O O O 0 O 0
+3 4 R
+0 0 R 0 R R R R 0 R 0 0
+2 4 O
+O O O 0 O 0 O O
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+2 3 G
+0 G G G G G
+5 5 R
+0 0 0 R 0 0 R 0 R 0 0 R R R R R R R 0 R R 0 0 0 0
+5 3 P
+P 0 0 P 0 P P P P P P 0 0 P 0
+2 5 P
+P P P 0 P P P 0 P P
+5 3 R
+R 0 R 0 R R R R R R 0 R 0 R 0
+6 4 P
+P P 0 0 0 0 P P P P 0 0 0 0 P P P P 0 0 0 0 P P
+3 3 Y
+Y 0 0 Y Y Y Y 0 0
+5 4 O
+0 0 O 0 0 O O O 0 O O 0 O O O O 0 0 0 0
+5 4 O
+O O O 0 O O 0 O 0 O O 0 O 0 O O 0 O O O
+4 2 Y
+Y Y Y Y 0 Y Y 0
+3 4 P
+0 0 P 0 P P P P 0 P 0 0
+2 3 O
+O 0 O 0 O O
+2 4 R
+R R 0 R 0 R R R
+5 5 R
+0 0 0 R R 0 R R R 0 0 0 R R 0 R R R 0 0 0 0 R R 0
+4 1 G
+G G G G
+3 3 O
+O O O O 0 O 0 0 O
+4 3 O
+0 O 0 0 O O O O 0 O 0 0
+5 3 O
+0 O 0 0 O O O O O O O 0 O 0 0
+2 3 O
+0 O O O 0 O
+3 5 R
+0 R R R R 0 0 R R R R 0 0 R R
+5 2 P
+P P P P P P 0 P 0 P
+4 6 P
+0 0 P P 0 0 P P 0 P P 0 0 P P 0 P P 0 0 P P 0 0
+3 2 G
+G G G 0 G 0
+3 3 O
+O 0 0 O O O 0 0 O
+1 4 Y
+Y Y Y Y
+3 3 G
+0 G 0 G G G 0 G 0
+4 1 Y
+Y Y Y Y
+3 2 G
+0 0 G G G G
+3 3 G
+0 G 0 G G G 0 G 0
+5 2 O
+O O O O O O 0 O 0 O
+5 4 R
+0 0 0 0 R R R R 0 R R 0 R R R 0 0 R 0 0
+3 3 O
+O O O O 0 O O O O
+3 3 O
+O 0 0 O O O 0 0 O
+1 4 Y
+Y Y Y Y
+2 3 G
+0 G G G G G
+5 5 P
+P P 0 P P P P 0 0 P 0 P P P P P P 0 0 0 P P 0 P P
+5 3 R
+0 R 0 R 0 R R R R R R 0 R 0 R
+5 4 R
+0 0 R 0 0 R R R 0 R R 0 R R R R 0 0 0 0
+4 5 R
+0 R R R 0 R 0 0 R R R 0 0 0 R 0 0 R R 0
+3 5 O
+O O 0 0 O O O O 0 0 O O O O 0
+3 5 O
+O O 0 0 O O O O 0 0 O 0 0 O O
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+3 3 Y
+0 Y 0 Y Y Y 0 Y 0
+3 3 Y
+Y Y Y Y 0 0 Y Y 0
+2 5 P
+P P 0 P P P 0 P P P
+3 5 R
+R R 0 0 R R R R 0 0 R R R R 0
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+2 3 Y
+Y Y Y 0 Y 0
+3 3 Y
+Y Y Y 0 Y 0 0 Y 0
+6 5 P
+0 0 0 P 0 0 P P P P P 0 P P P P P P P P P P P 0 0 0 0 P 0 0
+3 5 O
+O O O O O 0 O 0 O O O O 0 O 0
+4 5 R
+0 R R 0 0 R 0 0 0 R R R 0 0 R 0 R R R 0
+3 3 G
+0 G 0 G G G 0 G 0
+5 4 P
+P P P 0 P P 0 P 0 P P 0 P 0 P P 0 P P P
+3 3 O
+0 O O 0 0 O O O O
+2 4 G
+G 0 G G G G G 0
+6 5 P
+0 0 0 P 0 0 P P P P P 0 P P P P P P P P P P P 0 0 0 0 P 0 0
+3 3 P
+0 P 0 P P P 0 P 0
+5 4 P
+P P 0 0 0 0 P P 0 0 0 0 P P 0 0 0 0 P P
+4 1 Y
+Y Y Y Y
+4 2 Y
+Y Y Y Y 0 Y Y 0
+5 3 O
+O 0 0 O 0 O O O O O 0 0 O 0 O
+5 5 O
+0 0 O 0 0 0 O O O 0 O O 0 O O 0 O O O 0 0 0 O 0 0
+4 5 O
+O 0 0 0 O O 0 0 0 O O 0 0 0 O O 0 0 0 O
+2 3 Y
+Y Y Y 0 Y 0
+3 3 Y
+0 Y 0 0 Y 0 Y Y Y
+5 6 P
+0 P P P 0 0 P P P 0 0 P P P 0 P P P P P 0 P P P 0 0 0 P 0 0
+5 5 P
+P P 0 P P P P 0 0 P 0 P P P P P P 0 0 0 P P 0 P P
+3 4 R
+0 R R 0 R 0 0 R 0 R R 0
+2 3 O
+O O O 0 O O
+2 4 O
+O O 0 O 0 O O O
+3 3 Y
+0 Y 0 Y Y Y 0 Y 0
+7 6 P
+0 0 P P P 0 0 0 P P 0 P P 0 P P P P P P P 0 P P 0 P P 0 0 0 P P P 0 0 0 0 0 P 0 0 0
+2 3 G
+G 0 G G G G
+5 4 R
+R 0 R R R R 0 R 0 R R 0 R 0 R R R R 0 R
+2 1 G
+G G
+2 3 Y
+Y 0 Y Y Y 0
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+3 3 O
+O O O O 0 O O O O
+1 2 G
+G G
+5 6 P
+0 0 P 0 0 0 P P P 0 P P P P P 0 P P P 0 0 P P P 0 0 P P P 0
+3 4 O
+0 O 0 O O O 0 O 0 0 O 0
+4 3 O
+0 0 0 O O O O O O 0 0 0
+2 4 G
+G 0 G G G G G 0
+5 5 O
+0 0 O 0 0 0 O O O 0 O O 0 O O 0 O O O 0 0 0 O 0 0
+3 4 O
+0 O 0 O O O 0 O 0 0 O 0
+3 5 O
+O O 0 0 O O O O 0 0 O 0 0 O O
+2 3 O
+O O O O O 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+4 2 Y
+0 Y 0 0 Y Y Y Y
+5 4 R
+0 0 0 R R 0 0 R R 0 0 R R 0 0 R R 0 0 0
+2 3 G
+G G 0 G 0 G
+4 3 O
+O O 0 0 0 O O 0 0 0 O O
+3 3 O
+O O 0 O 0 0 O O O
+2 3 G
+G G G G G 0
+3 4 O
+O O O O 0 O O 0 O O O O
+3 5 P
+0 P 0 P P P 0 P 0 0 P 0 P P P
+5 6 P
+0 0 P 0 0 0 P P P 0 P P P P P 0 P P P 0 0 P P P 0 0 P P P 0
+4 3 O
+O O O O O 0 0 O O O O O
+3 3 O
+0 0 O O 0 O O O O
+6 5 P
+0 P 0 0 0 0 P P 0 0 0 0 P P P P P P P P 0 P P 0 0 P 0 0 0 0
+4 2 Y
+Y Y Y Y Y 0 0 Y
+3 3 O
+O 0 0 O O O 0 0 O
+3 2 G
+G G 0 0 G 0
+3 5 O
+O O 0 0 O O O O 0 0 O 0 0 O O
+5 2 O
+O O O O O O 0 O 0 O
+5 3 R
+R 0 R 0 R R R R R R 0 R 0 R 0
+4 2 G
+G G G G 0 G G 0
+4 4 O
+0 O 0 0 O O O O 0 O 0 0 0 O 0 0
+3 3 G
+G G 0 0 G 0 0 G G
+2 5 O
+O O O 0 O O O 0 O O
+4 6 P
+0 0 P P 0 0 P P 0 P P 0 0 P P 0 P P 0 0 P P 0 0
+5 5 O
+0 0 O 0 0 0 O O O 0 O O 0 O O 0 O O O 0 0 0 O 0 0
+4 6 P
+0 0 P P 0 0 P P 0 P P 0 0 P P 0 P P 0 0 P P 0 0
+2 5 R
+R R R 0 R R R 0 R R
+3 2 G
+0 G 0 0 G G
+5 6 O
+0 0 O 0 0 0 O O O 0 O O O O O 0 O O O 0 0 O O O 0 0 O O O 0
+3 5 P
+0 P 0 P P P 0 P 0 0 P 0 P P P
+3 2 G
+G G G G G 0
+5 2 P
+P P P P P P 0 P 0 P
+3 2 Y
+Y Y Y 0 Y Y
+2 3 Y
+Y Y 0 Y 0 Y
+4 5 R
+R R R 0 0 0 R 0 0 R R R 0 R 0 0 0 R R 0
+3 3 O
+O 0 0 O O O 0 0 O
+6 7 R
+0 0 R 0 0 0 0 R R R 0 0 R R R R R 0 R 0 R 0 R R R R R R R 0 0 R R R 0 0 0 0 R 0 0 0
+2 5 O
+O O 0 O O O 0 O O O
+4 5 R
+R R R 0 0 0 R 0 0 R R R 0 R 0 0 0 R R 0
+3 3 O
+O O 0 O 0 0 O O O
+1 4 Y
+Y Y Y Y
+2 2 Y
+0 Y Y Y
+5 5 O
+0 0 O 0 0 0 O O O 0 O O 0 O O 0 O O O 0 0 0 O 0 0
+5 6 P
+0 P P P 0 0 P P P 0 0 P P P 0 P P P P P 0 P P P 0 0 0 P 0 0
+5 5 R
+0 R 0 0 0 0 R 0 R 0 R R R R 0 R 0 R R R 0 0 0 0 R
+5 2 P
+P P P P P P 0 P 0 P
+3 5 R
+R R 0 0 R R R R 0 0 R R R R 0
+5 5 P
+P P 0 P P 0 0 0 P P P P P P 0 P 0 0 P P P P 0 P P
+6 5 P
+0 0 0 P 0 0 P P P P P 0 P P P P P P P P P P P 0 0 0 0 P 0 0
+3 2 P
+P P P 0 P P
+3 4 O
+0 O O 0 O 0 0 O 0 O O 0
+3 3 G
+G 0 0 G G G G 0 0
+3 2 Y
+0 Y Y 0 Y 0
+3 3 O
+0 0 O O O O O 0 0
+4 3 O
+O O O O O 0 0 O O O O O
+5 2 P
+P P P P P P 0 P 0 P
+2 2 Y
+Y 0 Y Y
+5 3 O
+0 0 O 0 O O O O O O O 0 0 O 0
+5 5 P
+P P 0 P P P 0 0 P P P P P P 0 0 0 0 P P P P 0 P P
+4 1 Y
+Y Y Y Y
+2 3 G
+G 0 G G G G
+4 4 O
+0 0 O 0 O O O O 0 0 O 0 0 0 O 0
+2 3 Y
+Y Y Y Y 0 Y
+5 4 R
+0 0 0 0 R R R R 0 R R 0 R R R 0 0 R 0 0
+4 6 O
+0 0 O O 0 0 O O 0 O O 0 0 O O 0 O O 0 0 O O 0 0
+5 3 R
+R 0 R 0 R R R R R R 0 R 0 R 0
+3 3 G
+G 0 0 G G G 0 0 G
+4 4 O
+0 0 O 0 0 0 O 0 O O O O 0 0 O 0
+5 2 O
+O 0 O 0 O O O O O O
+1 2 G
+G G
+2 3 Y
+Y Y Y Y Y 0
+5 5 R
+0 0 R R 0 R R R 0 0 0 0 R R 0 0 R R R 0 0 0 0 R R
+3 4 O
+O O O O 0 O O 0 O O O O
+3 5 P
+P P 0 0 P P P P 0 0 P P P P 0
+3 5 P
+0 P 0 P P P 0 P 0 0 P 0 P P P
+3 3 O
+0 O O 0 O 0 O O 0
+6 4 P
+0 0 0 0 P P 0 0 P P P P P P P P 0 0 P P 0 0 0 0
+4 5 P
+0 P P 0 0 P 0 0 0 P P P 0 0 P 0 P P P 0
+3 3 Y
+0 0 Y Y Y Y 0 0 Y
+4 3 O
+0 0 0 O O O O O O 0 0 0
+5 3 R
+0 R 0 R 0 R R R R R R 0 R 0 R
+3 5 P
+P P 0 0 P 0 0 P P P P 0 0 P P
+3 5 R
+0 R R R R 0 0 R R R R 0 0 R R
+3 2 G
+G G G 0 G G
+5 6 P
+0 0 P 0 0 0 0 P P 0 0 0 P P 0 0 0 P 0 0 P P P P P 0 P P P 0
+2 5 O
+O O O 0 O O O 0 O O
+5 3 R
+0 R R 0 R R R 0 R R 0 R R R R
+5 4 P
+P P P 0 P P 0 P 0 P P 0 P 0 P P 0 P P P
+5 4 O
+0 0 0 0 O O O O 0 O O 0 O O O 0 0 O 0 0
+4 2 O
+O O O O O 0 0 O
+3 2 O
+O O O O 0 O
+3 3 Y
+Y Y Y 0 Y 0 0 Y 0
+2 5 O
+O O O 0 O O O 0 O O
+6 4 P
+0 0 0 0 P P 0 0 P P P P P P P P 0 0 P P 0 0 0 0
+2 4 Y
+Y 0 Y Y Y 0 Y 0
+4 4 O
+0 0 O 0 0 0 O 0 O O O O 0 0 O 0
+3 2 Y
+Y Y 0 Y Y Y
+2 4 O
+O O O 0 O 0 O O
+2 3 G
+0 G 0 G G G
+5 5 O
+0 0 0 O 0 0 O 0 O 0 0 O O O O O O O 0 O O 0 0 0 0
+3 5 P
+P P P 0 P 0 0 P 0 P P P 0 P 0
+3 5 P
+0 P P P P 0 0 P P P P 0 0 P P
+3 5 P
+P P 0 0 P P P P 0 0 P P P P 0
+2 3 Y
+0 Y Y Y Y Y
+4 2 G
+0 G G 0 G G G G
+3 5 P
+0 P 0 P P P 0 P 0 0 P 0 P P P
+4 3 O
+O O O O O 0 0 O O O O O
+2 2 G
+0 G G G
+2 4 G
+0 G G G G G 0 G
+4 1 Y
+Y Y Y Y
+4 3 O
+0 O 0 0 O O O O 0 O 0 0
+4 2 G
+0 G G 0 G G G G
+4 5 R
+0 R R 0 0 0 R 0 R R R 0 0 R 0 0 0 R R R
+5 6 P
+0 0 P 0 0 0 P P 0 0 0 P P 0 0 0 0 P 0 0 P P P P P 0 P P P 0
+5 5 P
+0 0 P P 0 P P P 0 0 0 0 P P 0 0 P P P 0 0 0 0 P P
+3 3 Y
+0 Y 0 Y Y Y 0 Y 0
+3 3 G
+G 0 0 G G G G 0 0
+2 1 G
+G G
+4 4 P
+0 0 P 0 0 0 P 0 P P P P 0 0 P 0
+4 4 O
+0 O 0 0 O O O O 0 O 0 0 0 O 0 0
+2 3 O
+O O 0 O O O
+4 5 R
+R 0 0 0 R R 0 0 0 R R 0 0 0 R R 0 0 0 R
+4 3 P
+0 P 0 0 P P P P 0 P 0 0
+5 3 R
+R 0 R 0 R R R R R R 0 R 0 R 0
+1 4 G
+G G G G
+3 3 G
+0 G 0 G G G 0 G 0
+2 5 P
+P P 0 P P P 0 P P P
+5 3 R
+0 R 0 R 0 R R R R R R 0 R 0 R
+5 3 R
+0 R 0 R 0 R R R R R R 0 R 0 R
+6 7 R
+0 0 R 0 0 0 0 R R R 0 0 R R R R R 0 R 0 R 0 R R R R R R R 0 0 R R R 0 0 0 0 R 0 0 0
+2 1 G
+G G
+2 3 P
+P P 0 P P P
+6 5 P
+0 P 0 0 0 0 P P 0 P P 0 P P P P P P P P 0 0 0 0 0 P 0 0 0 0
+4 4 P
+0 P 0 0 P P P P 0 P 0 0 0 P 0 0
+3 3 O
+O O O O 0 O 0 0 O
+5 3 O
+0 O 0 0 O O O O O O 0 O 0 0 O
+5 4 O
+O O O 0 O O 0 O 0 O O 0 O 0 O O 0 O O O
+5 5 O
+0 0 O 0 0 0 O O O 0 O O 0 O O 0 O O O 0 0 0 O 0 0
+3 3 Y
+0 Y 0 0 Y 0 Y Y Y
+6 5 P
+0 0 P 0 0 0 0 P P P P P P P P P P P 0 P P P P P 0 0 P 0 0 0
+5 5 R
+0 R 0 0 0 0 R 0 R 0 R R R R 0 R 0 R R R 0 0 0 0 R
+2 3 Y
+0 0 Y Y Y 0
+2 3 Y
+0 0 Y Y Y 0
+3 3 Y
+0 0 Y Y 0 Y Y Y Y
+2 4 G
+G 0 G G G G G 0
+2 3 G
+G G 0 G G G
+7 6 R
+0 0 0 R 0 0 0 0 0 R R R 0 0 0 R R 0 R R 0 R R R R R R R 0 R R 0 R R 0 0 0 R R R 0 0
+3 2 G
+0 G G 0 G 0
+4 5 R
+0 R R 0 0 0 R 0 R R R 0 0 R 0 0 0 R R R
+4 4 O
+0 0 O 0 0 0 O 0 O O O O 0 0 O 0
+2 5 O
+O O O 0 O O O 0 O O
+6 4 P
+P P 0 0 0 0 P P P P 0 0 0 0 P P P P 0 0 0 0 P P
+2 3 G
+G 0 G G G G
+5 5 P
+0 0 0 P P 0 P P P 0 0 0 P P 0 P P P 0 0 0 0 P P 0
+4 1 Y
+Y Y Y Y
+3 4 R
+R 0 0 R R 0 0 R R 0 0 R
+2 3 O
+O O 0 O O O
+3 5 R
+0 R 0 R R R R 0 R R R 0 R R R
+2 3 Y
+0 Y Y Y 0 Y
+5 3 O
+O 0 0 O 0 O O O O O 0 0 O 0 O
+4 2 G
+G G G G 0 G 0 0
+6 5 P
+0 P 0 0 0 0 P P 0 P P 0 P P P P P P P P 0 0 0 0 0 P 0 0 0 0
+5 5 R
+R 0 0 0 0 R R R 0 R 0 R R R R 0 R 0 R 0 0 0 0 R 0
+3 2 Y
+Y Y 0 Y Y Y
+2 3 Y
+Y 0 Y Y 0 0
+3 4 R
+R 0 0 R R 0 0 R R 0 0 R
+1 4 O
+O O O O
+5 3 O
+O 0 O 0 0 O O O O O 0 O 0 0 O
+6 5 P
+0 0 P 0 0 0 0 P P P P P P P P P P P 0 P P P P P 0 0 P 0 0 0
+2 5 O
+O O 0 O O O 0 O O O
+3 3 O
+0 O O 0 O 0 O O 0
+3 3 G
+0 G 0 G G G 0 G 0
+6 5 O
+0 0 0 O 0 0 O O O O O 0 O O O O O O O O O O O 0 0 0 0 O 0 0
+5 5 P
+P P P 0 P P 0 P 0 P 0 0 P 0 0 P P P P P P P 0 P P
+5 4 P
+0 0 P 0 0 P 0 P P P P P P 0 P 0 0 0 0 P
+4 5 P
+0 P P 0 0 P 0 0 0 P P P 0 0 P 0 P P P 0
+4 4 R
+0 R 0 0 0 R 0 0 R R R R 0 R 0 0
+4 1 Y
+Y Y Y Y
+2 2 Y
+Y 0 Y Y
+3 5 R
+0 R R R R 0 0 R R 0 R 0 R R 0
+4 3 O
+0 0 O O 0 O O 0 O O 0 0
+3 5 R
+R R 0 0 R R R R 0 0 R R R R 0
+3 4 O
+O 0 0 O O 0 0 O O 0 0 O
+5 5 P
+P P 0 P P 0 0 0 P P P P P P 0 P 0 0 P P P P 0 P P
+5 2 O
+O O O O O O 0 O 0 O
+5 5 P
+P P 0 P P P 0 0 P P P P P P 0 0 0 0 P P P P 0 P P
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+3 5 O
+O O 0 0 O O O O 0 0 O 0 0 O O
+2 2 Y
+Y Y 0 Y
+6 5 P
+0 0 0 0 P 0 0 0 0 0 P P P P P P P P 0 P P 0 P P 0 0 0 0 P 0
+5 4 R
+0 0 R 0 0 R R R 0 R R 0 R R R R 0 0 0 0
+3 3 G
+0 G 0 G G G 0 G 0
+4 5 R
+R 0 0 0 R R 0 0 0 R R 0 0 0 R R 0 0 0 R
+5 2 P
+P 0 P 0 P P P P P P
+3 3 O
+0 O O 0 0 O O O O
+2 3 G
+G 0 G G G 0
+4 5 R
+0 0 0 R 0 0 R R 0 R R 0 R R 0 0 R 0 0 0
+5 4 O
+O O O 0 O O 0 O 0 O O 0 O 0 O O 0 O O O
+5 4 R
+0 0 R 0 0 R 0 R R R R R R 0 R 0 0 0 0 R
+5 5 R
+R 0 0 0 0 R R R 0 R 0 R R R R 0 R 0 R 0 0 0 0 R 0
+3 2 Y
+0 Y 0 Y Y Y
+5 4 O
+0 0 0 O O 0 0 O O 0 0 O O 0 0 O O 0 0 0
+4 3 O
+0 O 0 0 O O O O 0 O 0 0
+2 3 Y
+0 0 Y Y Y 0
+2 3 O
+O O 0 O O O
+5 5 O
+0 0 O 0 0 0 O O O 0 O O 0 O O 0 O O O 0 0 0 O 0 0
+2 3 R
+R R R 0 R R
+6 5 P
+0 P 0 0 0 0 P P 0 P P 0 P P P P P P P P 0 0 0 0 0 P 0 0 0 0
+5 5 P
+P 0 P P P P 0 P 0 P 0 0 P 0 0 P P P P P P P 0 P P
+5 3 R
+0 R R R R R R 0 R R 0 R R 0 R
+3 2 Y
+Y Y Y Y Y 0
+2 2 Y
+Y Y 0 Y
+2 3 O
+O O O 0 O O
+3 5 P
+P P P 0 P 0 0 P 0 P P P 0 P 0
+2 5 O
+O O O 0 O O O 0 O O
+3 4 O
+0 O O 0 O 0 0 O 0 O O 0
+4 3 O
+0 O 0 0 O O O O 0 O 0 0
+1 4 P
+P P P P
+5 5 O
+0 0 O 0 0 0 O O O 0 O O 0 O O 0 O O O 0 0 0 O 0 0
+5 5 P
+P P 0 P P P 0 0 P P P P P P 0 0 0 0 P P P P 0 P P
+5 3 O
+0 O 0 0 O O O O O O 0 O 0 0 O
+6 5 P
+0 P 0 0 0 0 P P 0 0 0 0 P P P P P P P P 0 P P 0 0 P 0 0 0 0
+5 4 R
+0 0 R 0 0 R R R 0 R R 0 R R R R 0 0 0 0
+3 4 R
+0 0 R 0 R R R R 0 R 0 0
+3 4 O
+O O 0 0 O 0 0 O 0 0 O O
+5 3 P
+0 P 0 0 P P P P P P 0 P 0 0 P
+2 3 Y
+Y 0 Y 0 Y Y
+3 4 O
+0 0 O 0 O O O O 0 O 0 0
+2 5 O
+O O O 0 O O O 0 O O
+3 3 O
+0 O O 0 0 O O O O
+3 2 Y
+Y Y Y 0 Y Y
+3 4 R
+R R 0 0 R 0 0 R 0 0 R R
+5 5 P
+0 P 0 0 0 0 P 0 P 0 P P P P 0 P 0 P P P 0 0 0 0 P
+5 6 P
+0 P P P 0 P P P P P 0 0 P 0 0 0 0 P P 0 0 0 P P 0 0 0 P 0 0
+5 2 O
+O 0 O 0 O O O O O O
+6 4 P
+0 0 0 0 P P 0 0 P P P P P P P P 0 0 P P 0 0 0 0
+3 5 R
+R R R 0 R R R 0 R R R R 0 R 0
+4 5 R
+0 R R R 0 R 0 0 R R R 0 0 0 R 0 0 R R 0
+3 3 G
+0 G G 0 G 0 G G 0
+5 3 R
+R 0 R 0 R R R R R R 0 R 0 R 0
+6 7 P
+0 0 P 0 0 0 0 P P P 0 0 P P P P P 0 P 0 P 0 P P P P P P P 0 0 P P P 0 0 0 0 P 0 0 0
+4 3 P
+0 P 0 0 P P P P 0 P 0 0
+4 4 O
+0 O 0 0 0 O 0 0 O O O O 0 O 0 0
+3 3 O
+O O O 0 0 O 0 O O
+3 5 P
+0 P P P P 0 0 P P 0 P 0 P P 0
+2 3 P
+P 0 P 0 P P
+5 3 R
+0 R R 0 R R R 0 R R 0 R R R R
+5 4 R
+R R R 0 R R 0 R 0 R R 0 R 0 R R 0 R R R
+3 3 O
+O O 0 O 0 0 O O O
+2 3 Y
+Y Y Y 0 Y Y
+3 3 G
+0 G 0 G G G 0 G 0
+4 5 P
+0 P P P 0 P 0 0 P P P 0 0 0 P 0 0 P P 0
+5 5 P
+P P P 0 P P 0 P 0 P 0 0 P 0 0 P P P P P P P 0 P P
+5 6 P
+0 0 P 0 0 0 0 P P 0 0 0 P P 0 0 0 P 0 0 P P P P P 0 P P P 0
+5 2 P
+P P P P P P 0 P 0 P
+4 3 O
+0 0 0 O O O O O O 0 0 0
+3 5 R
+R R 0 0 R R R R 0 0 R R R R 0
+5 6 P
+0 0 P 0 0 0 P P 0 0 0 P P 0 0 0 0 P 0 0 P P P P P 0 P P P 0
+3 5 R
+0 R 0 R R R R 0 R 0 R R R R R
+2 5 O
+O O O 0 O O O 0 O O
+5 5 R
+0 0 0 0 R R 0 R R R R R R R 0 0 R 0 R 0 0 R 0 0 0
+2 3 G
+G 0 G G G G
+6 4 O
+0 0 0 0 O O 0 0 O O O O O O O O 0 0 O O 0 0 0 0
+3 5 O
+0 O O 0 O 0 O O 0 0 O O O O 0
+2 2 Y
+Y Y 0 Y
+5 3 R
+R R R R 0 R R 0 R R R 0 R R 0
+2 3 G
+G G G G G 0
+4 5 P
+0 P P 0 0 0 P 0 P P P 0 0 P 0 0 0 P P P
+5 4 R
+0 0 0 0 R R R R 0 R R 0 R R R 0 0 R 0 0
+3 2 G
+G G 0 G G G
+5 6 P
+0 0 P 0 0 0 P P P 0 P P P P P 0 P P P 0 0 P P P 0 0 P P P 0
+3 3 O
+O O O O 0 O O O O
+5 4 R
+R 0 R R R R 0 R 0 R R 0 R 0 R R R R 0 R
+3 2 G
+G G G 0 G 0
+4 1 P
+P P P P
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+3 4 O
+O 0 0 O O 0 0 O O 0 0 O
+2 4 Y
+Y 0 Y Y Y Y Y 0
+5 4 O
+0 0 O 0 0 O O O 0 O O 0 O O O O 0 0 0 0
+5 5 P
+P P 0 P P P P P P P 0 0 P 0 0 P 0 P 0 P P P P 0 P
+3 2 Y
+0 Y 0 0 Y Y
+5 5 P
+P P 0 P P 0 0 0 P P P P P P 0 P 0 0 P P P P 0 P P
+3 2 O
+O 0 O O O O
+2 3 P
+P P 0 P P P
+2 1 Y
+Y Y
+3 3 Y
+0 Y 0 Y Y Y 0 Y 0
+3 5 P
+P P 0 0 P P P P 0 0 P 0 0 P P
+7 6 R
+0 0 0 R 0 0 0 0 0 R R R 0 0 0 R R 0 R R 0 R R R R R R R 0 R R 0 R R 0 0 0 R R R 0 0
+2 4 Y
+Y 0 Y Y Y 0 Y 0
+3 3 O
+0 0 O O O O O 0 0
+3 4 O
+0 O 0 0 O 0 O O O 0 O 0
+3 4 O
+O O O O 0 O O 0 O O O O
+5 5 P
+P P 0 P P 0 0 0 P P P P P P 0 P 0 0 P P P P 0 P P
+2 3 G
+G G G G G 0
+4 5 R
+R 0 0 0 R R 0 0 0 R R 0 0 0 R R 0 0 0 R
+5 5 P
+P P 0 P P P 0 0 P P P P P P 0 0 0 0 P P P P 0 P P
+4 1 Y
+Y Y Y Y
+2 3 G
+0 G G G 0 G
+3 3 O
+O O O O 0 O O O O
+4 4 P
+0 0 P 0 0 0 P 0 P P P P 0 0 P 0
+3 3 Y
+0 Y Y 0 Y 0 Y Y 0
+5 4 O
+0 0 O 0 0 O O O 0 O O 0 O O O O 0 0 0 0
+4 5 R
+R R R 0 0 0 R 0 0 R R R 0 R 0 0 0 R R 0
+5 4 P
+P 0 0 0 0 P 0 P P P P P P 0 P 0 0 P 0 0
+2 3 G
+G G 0 G 0 G
+7 6 P
+0 0 P P P 0 0 0 P P 0 P P 0 P P P P P P P 0 P P 0 P P 0 0 0 P P P 0 0 0 0 0 P 0 0 0
+5 4 O
+O O O 0 O O 0 O 0 O O 0 O 0 O O 0 O O O
+2 1 G
+G G
+5 4 P
+P 0 P P P P 0 P 0 P P 0 P 0 P P P P 0 P
+6 5 O
+0 0 0 O 0 0 O O O O O 0 O O O O O O O O O O O 0 0 0 0 O 0 0
+4 4 O
+0 O 0 0 O O O O 0 O 0 0 0 O 0 0
+3 5 P
+0 P P P P 0 0 P P 0 P 0 P P 0
+6 7 P
+0 0 P 0 0 0 0 P P P 0 0 P P P P P 0 P 0 P 0 P P P P P P P 0 0 P P P 0 0 0 0 P 0 0 0
+2 3 Y
+0 0 Y Y Y 0
+2 3 O
+O O 0 O O O
+3 4 O
+O O O O 0 O O 0 O O O O
+4 5 R
+R 0 0 0 R R 0 0 0 R R 0 0 0 R R 0 0 0 R
+4 5 R
+0 0 0 R 0 0 R R 0 R R 0 R R 0 0 R 0 0 0
+2 3 Y
+Y Y Y Y Y 0
+4 1 P
+P P P P
+5 2 O
+O 0 O 0 O O O O O O
+5 3 R
+R 0 R 0 R R R R R R 0 R 0 R 0
+2 3 G
+G 0 G G G G
+5 6 O
+0 O O O 0 0 O O O 0 0 O O O 0 O O O O O 0 O O O 0 0 0 O 0 0
+3 3 O
+O O O O 0 O O 0 0
+2 2 G
+G G 0 G
+3 5 P
+P P 0 0 P 0 0 P P P P 0 0 P P
+5 5 R
+R 0 0 0 0 R R R 0 R 0 R R R R 0 R 0 R 0 0 0 0 R 0
+3 3 G
+0 G 0 G G G 0 G 0
+5 6 P
+0 P P P 0 0 P P P 0 0 P P P 0 P P P P P 0 P P P 0 0 0 P 0 0
+6 4 R
+0 0 0 0 R R 0 0 R R R R R R R R 0 0 R R 0 0 0 0
+5 3 O
+0 0 O 0 O O O O O O O 0 0 O 0
+5 4 O
+O 0 O O O O 0 O 0 O O 0 O 0 O O O O 0 O
+5 5 P
+P 0 P P P P 0 P 0 P 0 0 P 0 0 P P P P P P P 0 P P
+4 1 Y
+Y Y Y Y
+3 3 O
+O O O O 0 O O O O
+3 2 Y
+Y 0 0 Y Y Y
+5 5 R
+0 R 0 0 0 0 R 0 R 0 R R R R 0 R 0 R R R 0 0 0 0 R
+6 5 P
+0 0 0 0 P 0 0 0 0 0 P P P P P P P P 0 P P 0 P P 0 0 0 0 P 0
+2 5 P
+P P 0 P P P 0 P P P
+2 1 G
+G G
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+4 3 O
+O O O O O 0 0 O O O O O
+3 5 P
+0 P 0 P P P 0 P 0 0 P 0 P P P
+4 3 P
+0 0 P 0 P P P P 0 0 P 0
+4 5 R
+0 R R 0 0 0 R 0 R R R 0 0 R 0 0 0 R R R
+3 3 G
+0 0 G G G G 0 0 G
+5 4 R
+R R R 0 R R 0 R 0 R R 0 R 0 R R 0 R R R
+6 5 O
+0 0 O 0 0 0 0 O O O O O O O O O O O 0 O O O O O 0 0 O 0 0 0
+4 3 Y
+Y 0 0 0 Y Y Y Y 0 0 0 Y
+3 2 G
+0 G 0 G G 0
+5 5 R
+0 R 0 0 0 0 R 0 R 0 R R R R 0 R 0 R R R 0 0 0 0 R
+6 4 P
+P P 0 0 0 0 P P P P 0 0 0 0 P P P P 0 0 0 0 P P
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+2 2 Y
+0 Y Y Y
+6 4 P
+0 0 0 0 P P 0 0 P P P P P P P P 0 0 P P 0 0 0 0
+3 5 O
+O O 0 0 O 0 0 O O O O 0 0 O O
+3 4 O
+O O O O 0 O O 0 O O O O
+2 4 Y
+Y 0 Y Y Y 0 Y 0
+3 3 Y
+Y Y Y 0 Y 0 0 Y 0
+4 3 O
+O 0 0 0 O O O O 0 0 0 O
+2 2 Y
+Y Y Y 0
+3 5 P
+P P 0 0 P 0 0 P P P P 0 0 P P
+3 5 O
+0 O O O O 0 0 O O 0 O 0 O O 0
+1 1 G
+G
+5 4 O
+0 0 O 0 0 O O O 0 O O 0 O O O O 0 0 0 0
+4 3 O
+O O O O O 0 0 O O O O O
+2 4 G
+0 G G G G G 0 G
+5 4 O
+0 0 0 0 O O O O 0 O O 0 O O O 0 0 O 0 0
+5 5 P
+P P 0 0 0 0 P P P 0 0 P P 0 0 0 0 P P P 0 P P 0 0
+3 3 G
+0 G 0 G G G 0 G 0
+2 5 O
+O O O 0 O O O 0 O O
+3 5 O
+O O 0 0 O 0 0 O O O O 0 0 O O
+5 4 R
+0 0 R 0 0 R 0 R R R R R R 0 R 0 0 0 0 R
+4 3 R
+0 0 R R 0 R R 0 R R 0 0
+3 4 O
+O O O O 0 O O 0 O O O O
+4 4 O
+0 O 0 0 O O O O 0 O 0 0 0 O 0 0
+7 6 P
+0 0 P P P 0 0 0 P P 0 P P 0 P P P P P P P 0 P P 0 P P 0 0 0 P P P 0 0 0 0 0 P 0 0 0
+4 5 R
+R 0 0 0 R R 0 0 0 R R 0 0 0 R R 0 0 0 R
+3 3 P
+0 P P 0 0 P P P P
+3 3 O
+O O O O 0 O O O O
+2 4 G
+G 0 G G G G G 0
+5 6 P
+0 P P P 0 0 P P P 0 0 P P P 0 P P P P P 0 P P P 0 0 0 P 0 0
+2 5 R
+R R R 0 R R R 0 R R
+4 2 G
+G G G G 0 G G 0
+3 4 P
+P 0 0 P P 0 0 P P 0 0 P
+6 4 R
+R R 0 0 0 0 R R R R 0 0 0 0 R R R R 0 0 0 0 R R
+3 5 R
+R R 0 0 R R R R 0 0 R R R R 0
+3 5 R
+0 R 0 R R R R 0 R R R 0 R R R
+6 4 P
+P P 0 0 0 0 P P P P 0 0 0 0 P P P P 0 0 0 0 P P
+4 6 P
+0 0 P P 0 0 P P 0 P P 0 0 P P 0 P P 0 0 P P 0 0
+5 3 R
+0 0 R 0 R R R R R R R 0 0 R 0
+5 4 R
+0 0 0 R R 0 0 R R 0 0 R R 0 0 R R 0 0 0
+5 3 O
+O 0 O 0 0 O O O O O 0 O 0 0 O
+3 3 Y
+Y Y 0 0 Y 0 0 Y Y
+3 4 O
+O O O O 0 O O 0 O O O O
+3 2 O
+O 0 O O O O
+3 5 O
+O O 0 0 O O O O 0 0 O 0 0 O O
+5 3 R
+0 R 0 R 0 R R R R R R 0 R 0 R
+3 3 Y
+Y Y Y 0 0 Y 0 Y Y
+6 4 O
+0 0 0 0 O O 0 0 O O O O O O O O 0 0 O O 0 0 0 0
+5 3 R
+R 0 R 0 R R R R R R 0 R 0 R 0
+5 3 O
+0 0 O 0 O O O O O O O 0 0 O 0
+5 4 O
+O 0 O O O O 0 O 0 O O 0 O 0 O O O O 0 O
+6 5 P
+0 0 0 P 0 0 P P P P P 0 P P P P P P P P P P P 0 0 0 0 P 0 0
+4 4 R
+0 0 R 0 0 0 R 0 R R R R 0 0 R 0
+2 3 Y
+0 Y Y Y 0 0
+3 4 O
+O O O O 0 O O 0 O O O O
+5 5 R
+0 0 0 R 0 0 R 0 R 0 0 R R R R R R R 0 R R 0 0 0 0
+5 6 O
+0 O O O 0 0 O O O 0 0 O O O 0 O O O O O 0 O O O 0 0 0 O 0 0
+3 3 P
+0 P P 0 P 0 P P 0
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+5 6 P
+0 0 P 0 0 0 P P P 0 P P P P P 0 P P P 0 0 P P P 0 0 P P P 0
+6 5 P
+0 0 0 P 0 0 P P P P P 0 P P P P P P P P P P P 0 0 0 0 P 0 0
+2 4 O
+O O 0 O 0 O O O
+3 3 Y
+0 Y 0 Y Y Y 0 Y 0
+5 3 R
+0 R 0 R 0 R R R R R R 0 R 0 R
+4 1 G
+G G G G
+5 2 O
+O 0 O 0 O O O O O O
+5 3 R
+R R R R 0 R R 0 R R R 0 R R 0
+2 3 G
+0 G G G G G
+5 3 P
+P 0 0 P 0 P P P P P P 0 0 P 0
+3 3 Y
+0 0 Y Y Y Y 0 0 Y
+4 1 Y
+Y Y Y Y
+5 5 P
+P P 0 P P P P P P P 0 0 P 0 0 P 0 P 0 P P P P 0 P
+3 4 O
+0 O O 0 O 0 0 O 0 O O 0
+4 4 O
+0 0 O 0 0 0 O 0 O O O O 0 0 O 0
+1 4 G
+G G G G
+2 3 G
+0 G 0 G G G
+3 3 O
+0 0 O O 0 O O O O
+3 3 O
+0 O O 0 O 0 O O 0
+3 4 O
+O 0 0 O O 0 0 O O 0 0 O
+3 3 G
+0 G 0 0 G 0 G G G
+5 3 R
+0 R 0 R 0 R R R R R R 0 R 0 R
+3 3 O
+O O O O 0 O O O O
+4 6 P
+0 0 P P 0 0 P P 0 P P 0 0 P P 0 P P 0 0 P P 0 0
+4 6 O
+O O 0 0 O O 0 0 0 O O 0 0 O O 0 0 0 O O 0 0 O O
+3 5 P
+P P P 0 P 0 0 P 0 P P P 0 P 0
+5 5 P
+P P 0 P P P P 0 0 P 0 P P P P P P 0 0 0 P P 0 P P
+4 2 O
+O O O O O 0 0 O
+7 6 R
+0 0 0 R 0 0 0 0 0 R R R 0 0 0 R R 0 R R 0 R R R R R R R 0 R R 0 R R 0 0 0 R R R 0 0
+3 2 G
+G G G 0 G 0
+3 5 P
+P P 0 0 P P P P 0 0 P 0 0 P P
+3 3 Y
+0 0 Y Y Y Y Y 0 0
+4 4 O
+0 O 0 0 O O O O 0 O 0 0 0 O 0 0
+3 5 R
+0 R R R R 0 0 R R R R 0 0 R R
+4 1 Y
+Y Y Y Y
+4 4 O
+0 O 0 0 0 O 0 0 O O O O 0 O 0 0
+3 3 O
+O O O O 0 0 O O 0
+3 3 P
+0 P P 0 0 P P P P
+5 5 R
+0 R 0 0 0 0 R 0 R 0 R R R R 0 R 0 R R R 0 0 0 0 R
+2 3 Y
+Y 0 Y Y 0 0
+3 3 Y
+Y 0 0 Y Y Y Y 0 0
+3 3 G
+0 G 0 G G G 0 G 0
+6 7 R
+0 0 0 R 0 0 0 0 R R R 0 0 R R R R R R R 0 R 0 R 0 R R R R R 0 0 R R R 0 0 0 0 R 0 0
+2 3 G
+G 0 G G G G
+5 5 P
+P P 0 P P P 0 0 P P P P P P 0 0 0 0 P P P P 0 P P
+3 4 O
+O O O O 0 O O 0 O O O O
+3 2 G
+G G G G G 0
+5 4 R
+0 0 0 0 R R R R 0 R R 0 R R R 0 0 R 0 0
+3 3 Y
+0 Y 0 Y Y Y 0 Y 0
+4 1 Y
+Y Y Y Y
+2 3 Y
+0 Y Y Y Y Y
+2 1 G
+G G
+5 5 R
+0 0 0 R R 0 R R R 0 0 0 R R 0 R R R 0 0 0 0 R R 0
+2 3 Y
+Y Y Y 0 Y Y
+2 2 G
+G 0 G G
+2 4 G
+0 G G G 0 G 0 G
+3 3 O
+O O O O 0 O O O O
+3 5 R
+R R 0 0 R R R R 0 0 R R R R 0
+3 5 R
+R R 0 0 R R R R 0 0 R R R R 0
+5 2 R
+R 0 R 0 R R R R R R
+5 3 R
+0 R 0 R 0 R R R R R R 0 R 0 R
+5 6 P
+0 P P P 0 P P P P P 0 0 P 0 0 0 0 P P 0 0 0 P P 0 0 0 P 0 0
+5 6 P
+0 P P P 0 0 P P P 0 0 P P P 0 P P P P P 0 P P P 0 0 0 P 0 0
+1 4 Y
+Y Y Y Y
+1 2 G
+G G
+3 3 O
+O 0 0 O O O 0 0 O
+5 2 O
+O 0 O 0 O O O O O O
+4 5 R
+R R R 0 0 0 R 0 0 R R R 0 R 0 0 0 R R 0
+5 4 R
+R R 0 0 0 0 R R 0 0 0 0 R R 0 0 0 0 R R
+5 3 O
+O 0 0 O 0 O O O O O 0 0 O 0 O
+6 5 P
+0 0 P 0 0 0 0 P P P P P P P P P P P 0 P P P P P 0 0 P 0 0 0
+3 3 G
+0 G 0 G G G 0 G 0
+2 3 O
+O O O O 0 O
+5 3 R
+R 0 R R 0 R R 0 R R R R R R 0
+3 2 O
+O O O O 0 O
+3 4 O
+O O 0 0 O 0 0 O 0 0 O O
+5 4 R
+R 0 R R R R 0 R 0 R R 0 R 0 R R R R 0 R
+4 3 O
+O O 0 0 0 O O 0 0 0 O O
+4 5 P
+P P P 0 0 0 P 0 0 P P P 0 P 0 0 0 P P 0
+4 3 P
+P P 0 0 0 P P 0 0 0 P P
+4 2 O
+O 0 0 O O O O O
+2 3 Y
+0 Y Y Y 0 0
+5 5 P
+P P 0 P P P 0 0 P P P P P P 0 0 0 0 P P P P 0 P P
+5 6 P
+0 P P P 0 P P P P P 0 0 P 0 0 0 0 P P 0 0 0 P P 0 0 0 P 0 0
+4 5 R
+R 0 0 0 R R 0 0 0 R R 0 0 0 R R 0 0 0 R
+4 3 P
+0 0 P 0 P P P P 0 0 P 0
+3 3 G
+0 G 0 G G G 0 G 0
+5 5 P
+0 0 0 0 P P 0 P P P P P P P 0 0 P 0 P 0 0 P 0 0 0
+4 3 O
+0 O 0 0 O O O O 0 O 0 0
+3 3 O
+0 O O 0 O 0 O O 0
+3 5 P
+P P P 0 P 0 0 P 0 P P P 0 P 0
+2 5 P
+P P P 0 P P P 0 P P
+2 3 Y
+0 Y Y Y 0 Y
+1 4 G
+G G G G
+3 3 G
+0 G 0 0 G 0 G G G
+3 2 G
+0 G 0 G G G
+3 4 O
+0 O 0 0 O 0 O O O 0 O 0
+5 4 P
+P P P 0 P P 0 P 0 P P 0 P 0 P P 0 P P P
+2 3 G
+G 0 G G G 0
+1 2 G
+G G
+5 5 O
+0 0 O 0 0 0 O O O 0 O O 0 O O 0 O O O 0 0 0 O 0 0
+4 3 O
+O O O O O 0 0 O O O O O
+4 5 R
+0 R R 0 0 R 0 0 0 R R R 0 0 R 0 R R R 0
+5 4 R
+R R R 0 R R 0 R 0 R R 0 R 0 R R 0 R R R
+4 5 P
+P 0 0 0 P P 0 0 0 P P 0 0 0 P P 0 0 0 P
+3 3 O
+O O O O 0 O O O O
+6 7 P
+0 0 0 P 0 0 0 0 P P P 0 0 P P P P P P P 0 P 0 P 0 P P P P P 0 0 P P P 0 0 0 0 P 0 0
+3 2 O
+O O O 0 0 O
+3 2 O
+O O O O 0 O
+4 3 O
+0 0 O 0 O O O O 0 0 O 0
+3 3 O
+0 0 O O O O O 0 0
+4 5 R
+0 R R 0 0 R 0 0 0 R R R 0 0 R 0 R R R 0
+3 4 O
+0 O O 0 O 0 0 O 0 O O 0
+6 5 P
+0 0 P 0 0 0 0 P P P P P P P P P P P 0 P P P P P 0 0 P 0 0 0
+3 4 P
+P 0 0 P P 0 0 P P 0 0 P
+3 5 R
+0 R R R R 0 0 R R R R 0 0 R R
+6 7 R
+0 0 0 R 0 0 0 0 R R R 0 0 R R R R R R R 0 R 0 R 0 R R R R R 0 0 R R R 0 0 0 0 R 0 0
+4 4 R
+0 0 R 0 0 0 R 0 R R R R 0 0 R 0
+4 2 O
+O 0 0 O O O O O
+4 2 G
+0 0 G 0 G G G G
+6 5 P
+0 0 0 0 P 0 0 P P 0 P P P P P P P P 0 0 0 0 P P 0 0 0 0 P 0
+4 3 O
+O O O O O 0 0 O O O O O
+3 3 Y
+Y Y Y 0 Y 0 0 Y 0
+4 3 O
+O O O O O 0 0 O O O O O
+4 4 O
+0 O 0 0 O O O O 0 O 0 0 0 O 0 0
+5 4 R
+R 0 0 0 0 R 0 R R R R R R 0 R 0 0 R 0 0
+2 3 G
+G G G G G 0
+5 4 O
+0 0 0 0 O O O O 0 O O 0 O O O 0 0 O 0 0
+4 2 O
+O O O O O 0 0 O
+2 3 G
+G 0 G G G 0
+3 2 P
+P P P 0 P P
+2 3 Y
+0 Y Y Y Y Y
+3 4 O
+O O 0 0 O 0 0 O 0 0 O O
+3 2 R
+R R R 0 R 0
+4 2 G
+0 G 0 0 G G G G
+3 4 O
+O O O O 0 O O 0 O O O O
+1 4 G
+G G G G
+4 1 Y
+Y Y Y Y
+4 5 R
+0 R R 0 0 R 0 0 0 R R R 0 0 R 0 R R R 0
+3 3 G
+G 0 0 G G G G 0 0
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+5 3 P
+P 0 P 0 P P P P P P 0 P 0 P 0
+5 3 R
+R 0 R 0 R R R R R R 0 R 0 R 0
+1 2 G
+G G
+3 3 Y
+Y Y 0 0 Y 0 0 Y Y
+6 5 P
+0 P 0 0 0 0 P P 0 0 0 0 P P P P P P P P 0 P P 0 0 P 0 0 0 0
+2 5 P
+P P P 0 P P P 0 P P
+6 5 P
+0 0 0 0 P 0 0 0 0 0 P P P P P P P P 0 P P 0 P P 0 0 0 0 P 0
+2 3 G
+G 0 G G 0 0
+3 5 P
+0 P P P P 0 0 P P 0 P 0 P P 0
+4 5 P
+P P P 0 0 0 P 0 0 P P P 0 P 0 0 0 P P 0
+6 5 P
+0 0 0 P 0 0 P P P P P 0 P P P P P P P P P P P 0 0 0 0 P 0 0
+5 3 R
+R R R R 0 R R 0 R R R 0 R R 0
+6 5 P
+0 0 0 0 P 0 0 0 0 0 P P P P P P P P 0 P P 0 P P 0 0 0 0 P 0
+3 4 O
+0 O O 0 O 0 0 O 0 O O 0
+4 2 P
+0 P P 0 P P P P
+4 5 R
+0 0 0 R 0 0 R R 0 R R 0 R R 0 0 R 0 0 0
+3 3 O
+O O O O 0 O 0 0 O
+6 7 P
+0 0 P 0 0 0 0 P P P 0 0 P P P P P 0 P 0 P 0 P P P P P P P 0 0 P P P 0 0 0 0 P 0 0 0
+4 4 O
+0 O 0 0 0 O 0 0 O O O O 0 O 0 0
+3 3 P
+0 0 P P 0 P P P P
+5 4 R
+R 0 0 0 0 R 0 R R R R R R 0 R 0 0 R 0 0
+2 4 Y
+Y 0 Y Y Y Y Y 0
+2 2 G
+G G 0 G
+5 5 O
+0 0 O 0 0 0 O O O 0 O O 0 O O 0 O O O 0 0 0 O 0 0
+2 3 O
+O O 0 O 0 O
+7 6 P
+0 0 0 P 0 0 0 0 0 P P P 0 0 0 P P 0 P P 0 P P P P P P P 0 P P 0 P P 0 0 0 P P P 0 0
+5 6 P
+0 P P P 0 0 P P P 0 0 P P P 0 P P P P P 0 P P P 0 0 0 P 0 0
+3 3 O
+O O 0 0 O 0 0 O O
+2 2 G
+G 0 G G
+5 6 O
+0 0 O 0 0 0 O O O 0 O O O O O 0 O O O 0 0 O O O 0 0 O O O 0
+4 4 P
+0 P 0 0 P P P P 0 P 0 0 0 P 0 0
+7 6 R
+0 0 0 R 0 0 0 0 0 R R R 0 0 0 R R 0 R R 0 R R R R R R R 0 R R 0 R R 0 0 0 R R R 0 0
+5 3 R
+0 R 0 R 0 R R R R R R 0 R 0 R
+6 5 O
+0 0 0 O 0 0 O O O O O 0 O O O O O O O O O O O 0 0 0 0 O 0 0
+3 4 O
+O O O O 0 O O 0 O O O O
+2 4 G
+G 0 G 0 G G G 0
+2 2 G
+G 0 G G
+5 3 O
+0 0 O 0 O O O O O O O 0 0 O 0
+2 3 G
+0 G G G G G
+4 5 R
+0 R R 0 0 0 R 0 R R R 0 0 R 0 0 0 R R R
+3 2 P
+0 P 0 P P P
+4 4 R
+0 R 0 0 R R R R 0 R 0 0 0 R 0 0
+3 5 P
+P P 0 0 P P P P 0 0 P P P P 0
+2 4 G
+0 G G G G G 0 G
+2 2 Y
+Y Y Y 0
+3 3 Y
+0 0 Y Y Y Y 0 0 Y
+3 3 Y
+Y Y Y Y 0 0 Y Y 0
+4 4 O
+0 0 O 0 O O O O 0 0 O 0 0 0 O 0
+5 4 R
+R 0 R R R R 0 R 0 R R 0 R 0 R R R R 0 R
+4 2 G
+0 G G 0 G G G G
+5 4 R
+0 0 R 0 0 R R R 0 R R 0 R R R R 0 0 0 0
+4 1 Y
+Y Y Y Y
+5 4 P
+P 0 P P P P 0 P 0 P P 0 P 0 P P P P 0 P
+5 2 O
+O 0 O 0 O O O O O O
+5 3 O
+0 O 0 0 O O O O O O O 0 O 0 0
+3 2 Y
+0 Y Y Y Y Y
+2 3 O
+O O O 0 O O
+3 4 O
+0 O 0 0 O 0 O O O 0 O 0
+6 5 P
+0 0 P 0 0 0 0 P P P P P P P P P P P 0 P P P P P 0 0 P 0 0 0
+6 5 P
+0 0 0 P 0 0 P P P P P 0 P P P P P P P P P P P 0 0 0 0 P 0 0
+3 5 O
+0 O O 0 O 0 O O 0 0 O O O O 0
+3 2 Y
+Y Y Y Y 0 0
+3 2 Y
+Y Y Y Y Y 0
+3 3 O
+O O O O 0 O O O O
+3 3 G
+0 G 0 G G G 0 G 0
+4 2 Y
+0 Y 0 0 Y Y Y Y
+6 7 P
+0 0 P 0 0 0 0 P P P 0 0 P P P P P 0 P 0 P 0 P P P P P P P 0 0 P P P 0 0 0 0 P 0 0 0
+4 3 O
+O O O O O 0 0 O O O O O
+3 3 G
+0 G 0 0 G 0 G G G
+5 4 P
+0 0 P 0 0 P P P 0 P P 0 P P P P 0 0 0 0
+6 7 R
+0 0 0 R 0 0 0 0 R R R 0 0 R R R R R R R 0 R 0 R 0 R R R R R 0 0 R R R 0 0 0 0 R 0 0
+3 4 O
+O O 0 0 O 0 0 O 0 0 O O
+2 2 Y
+Y 0 Y Y
+5 4 P
+0 0 0 0 P P P P 0 P P 0 P P P 0 0 P 0 0
+4 2 Y
+Y Y Y Y Y 0 0 Y
+3 5 P
+P P 0 0 P P P P 0 0 P P P P 0
+3 4 O
+O 0 0 O O 0 0 O O 0 0 O
+5 4 R
+0 0 R 0 0 R R R 0 R R 0 R R R R 0 0 0 0
+2 3 Y
+Y Y Y Y 0 Y
+4 5 R
+0 0 0 R 0 0 R R 0 R R 0 R R 0 0 R 0 0 0
+5 6 P
+0 0 P 0 0 0 P P P 0 P P P P P 0 P P P 0 0 P P P 0 0 P P P 0
+2 4 Y
+0 Y Y Y Y Y 0 Y
+2 2 G
+G 0 G G
+3 5 R
+0 R R R R 0 0 R R R R 0 0 R R
+3 3 O
+O O O O 0 O O O O
+2 2 Y
+Y Y 0 Y
+6 7 R
+0 0 R 0 0 0 0 R R R 0 0 R R R R R 0 R 0 R 0 R R R R R R R 0 0 R R R 0 0 0 0 R 0 0 0
+3 4 O
+O 0 0 O O 0 0 O O 0 0 O
+2 3 Y
+0 Y Y Y 0 Y
+5 5 P
+P P 0 P P P 0 0 P P P P P P 0 0 0 0 P P P P 0 P P
+5 3 R
+0 R 0 R 0 R R R R R R 0 R 0 R
+3 2 R
+R 0 R R R R
+5 2 O
+O 0 O 0 O O O O O O
+5 3 R
+0 R R R R R R 0 R R 0 R R 0 R
+3 2 G
+0 G G G G G
+5 2 O
+O 0 O 0 O O O O O O
+4 3 O
+O O O O O 0 0 O O O O O
+3 4 O
+O O 0 0 O 0 0 O 0 0 O O
+3 3 Y
+Y 0 0 Y Y Y Y 0 0
+4 6 R
+R R 0 0 R R 0 0 0 R R 0 0 R R 0 0 0 R R 0 0 R R
+3 2 Y
+Y Y Y 0 Y 0
+3 4 O
+O O O O 0 O O 0 O O O O
+5 5 R
+0 R 0 0 0 0 R 0 R 0 R R R R 0 R 0 R R R 0 0 0 0 R
+3 5 P
+P P 0 0 P P P P 0 0 P P P P 0
+3 2 R
+R R R R 0 R
+3 3 O
+O O O O 0 O O O O
+3 3 Y
+Y 0 0 Y Y Y Y 0 0
+3 5 O
+0 O 0 O O O 0 O 0 0 O 0 O O O
+2 2 G
+G G G 0
+2 4 Y
+0 Y 0 Y Y Y 0 Y
+6 4 P
+P P 0 0 0 0 P P P P 0 0 0 0 P P P P 0 0 0 0 P P
+4 5 R
+0 R R 0 0 0 R 0 R R R 0 0 R 0 0 0 R R R
+5 6 P
+0 P P P 0 0 P P P 0 0 P P P 0 P P P P P 0 P P P 0 0 0 P 0 0
+2 2 O
+O O O 0
+7 6 R
+0 0 0 R 0 0 0 0 0 R R R 0 0 0 R R 0 R R 0 R R R R R R R 0 R R 0 R R 0 0 0 R R R 0 0
+5 5 P
+0 0 0 0 P P 0 P P P P P P P 0 0 P 0 P 0 0 P 0 0 0
+6 5 P
+0 0 0 0 P 0 0 0 0 0 P P P P P P P P 0 P P 0 P P 0 0 0 0 P 0
+4 1 G
+G G G G
+5 3 O
+0 O 0 O 0 O O O O O O 0 O 0 O
+2 3 Y
+0 Y Y Y Y Y
+5 5 R
+0 0 R R 0 R R R 0 0 0 0 R R 0 0 R R R 0 0 0 0 R R
+3 4 O
+0 O 0 O O O 0 O 0 0 O 0
+4 4 O
+0 0 O 0 0 0 O 0 O O O O 0 0 O 0
+1 1 Y
+Y
+2 5 O
+O O O 0 O O O 0 O O
+4 5 R
+R 0 0 0 R R 0 0 0 R R 0 0 0 R R 0 0 0 R
+4 1 P
+P P P P
+4 1 Y
+Y Y Y Y
+1 4 G
+G G G G
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+4 2 O
+O 0 0 O O O O O
+6 5 O
+0 0 O 0 0 0 0 O O O O O O O O O O O 0 O O O O O 0 0 O 0 0 0
+4 4 R
+0 0 R 0 R R R R 0 0 R 0 0 0 R 0
+2 5 O
+O O O 0 O O O 0 O O
+3 3 O
+O O 0 0 O 0 0 O O
+4 5 O
+0 0 0 O 0 0 O O 0 O O 0 O O 0 0 O 0 0 0
+3 3 P
+0 0 P P 0 P P P P
+6 5 P
+0 P 0 0 0 0 P P 0 P P 0 P P P P P P P P 0 0 0 0 0 P 0 0 0 0
+6 5 P
+0 0 P 0 0 0 0 P P P P P P P P P P P 0 P P P P P 0 0 P 0 0 0
+3 4 O
+0 O 0 0 O 0 O O O 0 O 0
+3 3 Y
+Y 0 0 Y 0 Y Y Y Y
+5 5 R
+0 0 0 0 R R 0 R R R R R R R 0 0 R 0 R 0 0 R 0 0 0
+6 4 P
+P P 0 0 0 0 P P P P 0 0 0 0 P P P P 0 0 0 0 P P
+5 3 R
+R 0 R 0 R R R R R R 0 R 0 R 0
+6 4 P
+0 0 0 0 P P 0 0 P P P P P P P P 0 0 P P 0 0 0 0
+5 2 P
+P 0 P 0 P P P P P P
+2 3 G
+G 0 G G G 0
+5 3 P
+P 0 P P 0 P P 0 P P P P P P 0
+5 4 P
+P 0 P P P P 0 P 0 P P 0 P 0 P P P P 0 P
+5 4 R
+R R R 0 R R 0 R 0 R R 0 R 0 R R 0 R R R
+5 3 O
+0 O 0 O 0 O O O O O O 0 O 0 O
+3 2 Y
+0 Y 0 Y Y Y
+3 3 G
+0 G 0 G G G 0 G 0
+3 4 O
+0 O 0 0 O 0 O O O 0 O 0
+3 2 O
+O 0 O O O O
+2 1 G
+G G
+7 6 R
+0 0 0 R 0 0 0 0 0 R R R 0 0 0 R R 0 R R 0 R R R R R R R 0 R R 0 R R 0 0 0 R R R 0 0
+4 4 O
+0 0 O 0 0 0 O 0 O O O O 0 0 O 0
+3 3 O
+O O O O 0 O O O O
+3 2 G
+G G G G G 0
+6 5 P
+0 0 P 0 0 0 0 P P P P P P P P P P P 0 P P P P P 0 0 P 0 0 0
+5 4 P
+0 0 0 P P 0 0 P P 0 0 P P 0 0 P P 0 0 0
+5 3 R
+R 0 R 0 R R R R R R 0 R 0 R 0
+4 2 P
+P 0 0 P P P P P
+2 3 O
+O O 0 O O O
+4 2 O
+O O O O O 0 0 O
+4 3 O
+O O O O O 0 0 O O O O O
+2 1 G
+G G
+3 4 P
+0 P 0 0 P 0 P P P 0 P 0
+4 5 R
+0 R R R 0 R 0 0 R R R 0 0 0 R 0 0 R R 0
+3 4 O
+O O 0 0 O 0 0 O 0 0 O O
+3 5 R
+R R 0 0 R R R R 0 0 R R R R 0
+3 5 O
+O O 0 0 O O O O 0 0 O 0 0 O O
+5 6 P
+0 0 P 0 0 0 0 P P 0 0 0 P P 0 0 0 P 0 0 P P P P P 0 P P P 0
+5 5 R
+0 0 R R 0 R R R 0 0 0 0 R R 0 0 R R R 0 0 0 0 R R
+5 2 O
+O O O O O O 0 O 0 O
+5 3 R
+R R R R 0 R R 0 R R R 0 R R 0
+4 3 O
+O 0 0 0 O O O O 0 0 0 O
+5 5 O
+0 0 O 0 0 0 O O O 0 O O 0 O O 0 O O O 0 0 0 O 0 0
+3 5 R
+0 R 0 R R R R 0 R 0 R R R R R
+4 5 O
+0 O O 0 0 O 0 0 0 O O O 0 0 O 0 O O O 0
+5 3 R
+R 0 R 0 R R R R R R 0 R 0 R 0
+3 3 O
+0 O O 0 O 0 O O 0
+3 3 O
+O O O O 0 O O O O
+3 2 Y
+0 Y 0 Y Y 0
+3 3 G
+0 0 G G G G G 0 0
+2 3 Y
+0 Y Y Y Y Y
+5 4 R
+R 0 0 0 0 R 0 R R R R R R 0 R 0 0 R 0 0
+5 3 R
+0 R R 0 R R R 0 R R 0 R R R R
+3 3 G
+G G G 0 G 0 0 G 0
+2 3 O
+O O O 0 O O
+5 4 R
+R R 0 0 0 0 R R 0 0 0 0 R R 0 0 0 0 R R
+5 3 R
+0 R 0 R 0 R R R R R R 0 R 0 R
+5 5 O
+0 0 O 0 0 0 O O O 0 O O 0 O O 0 O O O 0 0 0 O 0 0
+3 3 O
+O O O O 0 O O O O
+3 3 G
+0 G 0 G G G 0 G 0
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+4 3 P
+0 0 P P 0 P P 0 P P 0 0
+5 3 R
+R 0 R 0 R R R R R R 0 R 0 R 0
+3 3 G
+0 G 0 G G G 0 G 0
+1 2 G
+G G
+4 3 O
+O O O O O 0 0 O O O O O
+2 3 O
+0 0 O O 0 O
+3 3 G
+0 G 0 G G G 0 G 0
+3 4 O
+0 O O 0 O 0 0 O 0 O O 0
+4 3 O
+0 0 O O 0 O O 0 O O 0 0
+5 2 P
+P P P P P P 0 P 0 P
+4 3 O
+0 O 0 0 O O O O 0 O 0 0
+3 2 Y
+Y 0 0 Y Y Y
+5 3 P
+0 P 0 0 P P P P P P P 0 P 0 0
+4 6 R
+0 0 R R 0 0 R R 0 R R 0 0 R R 0 R R 0 0 R R 0 0
+5 4 R
+0 0 0 R R 0 0 R R 0 0 R R 0 0 R R 0 0 0
+3 4 O
+0 O O 0 O 0 0 O 0 O O 0
+3 3 O
+O 0 0 O O O 0 0 O
+6 5 P
+0 0 0 P 0 0 P P P P P 0 P P P P P P P P P P P 0 0 0 0 P 0 0
+5 3 O
+O 0 O 0 0 O O O O O 0 O 0 0 O
+2 3 G
+G 0 G 0 G G
+5 5 P
+P P 0 P P P P 0 0 P 0 P P P P P P 0 0 0 P P 0 P P
+3 5 P
+P P P 0 P 0 0 P 0 P P P 0 P 0
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+3 4 O
+0 O 0 O O O 0 O 0 0 O 0
+2 5 R
+R R R 0 R R R 0 R R
+3 5 R
+R R R 0 R R R 0 R R R R 0 R 0
+2 2 Y
+Y Y 0 Y
+3 2 Y
+0 Y 0 Y Y Y
+5 5 R
+0 0 R R 0 R R R 0 0 0 0 R R 0 0 R R R 0 0 0 0 R R
+5 5 R
+0 0 R R 0 R R R 0 0 0 0 R R 0 0 R R R 0 0 0 0 R R
+3 3 Y
+0 Y 0 0 Y 0 Y Y Y
+3 3 O
+O O O O 0 O O O O
+5 4 R
+R R 0 0 0 0 R R 0 0 0 0 R R 0 0 0 0 R R
+5 3 R
+0 R R 0 R R R 0 R R 0 R R R R
+2 5 O
+O O O 0 O O O 0 O O
+4 2 O
+O O O O O 0 0 O
+3 2 Y
+Y Y Y 0 Y 0
+3 3 O
+O O O O 0 O 0 0 O
+3 2 Y
+0 Y 0 Y Y 0
+2 4 G
+G 0 G 0 G G G 0
+2 1 Y
+Y Y
+2 2 Y
+Y 0 Y Y
+3 2 Y
+Y Y 0 Y Y Y
+5 5 P
+0 0 0 P 0 0 P 0 P 0 0 P P P P P P P 0 P P 0 0 0 0
+3 5 O
+0 O O 0 O 0 O O 0 0 O O O O 0
+2 4 O
+O O O 0 O 0 O O
+2 4 Y
+0 Y Y Y Y Y 0 Y
+3 5 O
+O O 0 0 O O O O 0 0 O 0 0 O O
+3 2 G
+0 G G G G G
+4 2 Y
+0 Y 0 0 Y Y Y Y
+5 4 R
+R R R 0 R R 0 R 0 R R 0 R 0 R R 0 R R R
+5 5 P
+P P 0 P P P P 0 0 P 0 P P P P P P 0 0 0 P P 0 P P
+5 5 O
+0 0 O 0 0 0 O O O 0 O O 0 O O 0 O O O 0 0 0 O 0 0
+4 3 O
+O O O O O 0 0 O O O O O
+2 4 Y
+0 Y Y Y Y Y 0 Y
+3 4 O
+O O 0 0 O 0 0 O 0 0 O O
+2 4 Y
+0 Y Y Y Y Y 0 Y
+5 3 R
+0 R 0 0 R R R R R R R 0 R 0 0
+2 2 G
+G G 0 G
+5 4 R
+0 0 R 0 0 R R R 0 R R 0 R R R R 0 0 0 0
+3 5 R
+R R 0 0 R R R R 0 0 R R R R 0
+3 2 G
+0 0 G G G G
+4 1 Y
+Y Y Y Y
+3 5 R
+R R R 0 R R R 0 R R R R 0 R 0
+3 3 O
+0 0 O O O O O 0 0
+3 3 O
+O O O O 0 O O O O
+5 2 O
+O O O O O O 0 O 0 O
+5 4 R
+0 0 0 0 R R R R 0 R R 0 R R R 0 0 R 0 0
+2 3 Y
+0 Y Y Y 0 0
+5 3 P
+P 0 0 P 0 P P P P P P 0 0 P 0
+1 1 Y
+Y
+3 4 P
+0 P 0 P P P 0 P 0 0 P 0
+3 2 O
+O 0 O O O O
+5 4 R
+R 0 0 0 0 R 0 R R R R R R 0 R 0 0 R 0 0
+3 2 G
+G G G G G 0
+3 3 G
+0 G 0 G G G 0 G 0
+5 5 P
+0 0 P 0 0 0 P P P 0 P P 0 P P 0 P P P 0 0 0 P 0 0
+5 3 R
+0 R 0 R 0 R R R R R R 0 R 0 R
+2 2 Y
+Y Y Y 0
+5 3 O
+0 0 O 0 O O O O O O O 0 0 O 0
+3 3 G
+0 G 0 G G G 0 G 0
+3 3 O
+O O O O 0 O O O O
+2 4 O
+O O O 0 O 0 O O
+5 4 R
+R 0 0 0 0 R 0 R R R R R R 0 R 0 0 R 0 0
+4 3 O
+O O O O O 0 0 O O O O O
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+1 4 Y
+Y Y Y Y
+2 1 Y
+Y Y
+3 2 Y
+Y Y 0 0 Y 0
+4 5 O
+O 0 0 0 O O 0 0 0 O O 0 0 0 O O 0 0 0 O
+2 2 Y
+Y Y Y 0
+6 5 P
+0 P 0 0 0 0 P P 0 P P 0 P P P P P P P P 0 0 0 0 0 P 0 0 0 0
+3 3 Y
+Y Y 0 0 Y 0 0 Y Y
+3 2 Y
+0 Y 0 0 Y Y
+4 1 G
+G G G G
+3 2 O
+O O O O 0 O
+5 5 R
+0 R 0 0 0 0 R 0 R 0 R R R R 0 R 0 R R R 0 0 0 0 R
+2 3 G
+0 0 G G 0 G
+2 2 Y
+Y Y 0 Y
+4 3 P
+0 0 P 0 P P P P 0 0 P 0
+7 6 R
+0 0 R R R 0 0 0 R R 0 R R 0 R R R R R R R 0 R R 0 R R 0 0 0 R R R 0 0 0 0 0 R 0 0 0
+3 3 O
+O O 0 0 O 0 0 O O
+2 2 Y
+Y 0 Y Y
+5 2 O
+O O O O O O 0 O 0 O
+2 3 Y
+Y Y Y Y Y 0
+3 3 O
+O O 0 0 O 0 0 O O
+1 4 Y
+Y Y Y Y
+2 3 Y
+Y 0 Y 0 Y Y
+3 5 R
+0 R 0 R R R R 0 R 0 R R R R R
+5 5 R
+0 0 0 R R 0 R R R 0 0 0 R R 0 R R R 0 0 0 0 R R 0
+2 3 G
+0 G G G G G
+3 4 O
+0 O 0 O O O 0 O 0 0 O 0
+5 4 O
+O O O 0 O O 0 O 0 O O 0 O 0 O O 0 O O O
+3 2 O
+O 0 O O O O
+3 2 Y
+Y Y Y Y 0 Y
+4 3 P
+0 0 P 0 P P P P 0 0 P 0
+7 6 R
+0 0 0 R 0 0 0 0 0 R R R 0 0 0 R R 0 R R 0 R R R R R R R 0 R R 0 R R 0 0 0 R R R 0 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+2 4 G
+G 0 G G G 0 G 0
+3 3 Y
+0 Y 0 Y Y Y 0 Y 0
+5 3 O
+O 0 0 O 0 O O O O O 0 0 O 0 O
+4 3 O
+0 O 0 0 O O O O 0 O 0 0
+3 5 R
+0 R 0 R R R R 0 R R R 0 R R R
+4 5 P
+0 P P 0 0 0 P 0 P P P 0 0 P 0 0 0 P P P
+4 3 O
+O O O O O 0 0 O O O O O
+3 3 Y
+Y 0 0 Y Y Y 0 0 Y
+3 3 O
+O O O O 0 O O O O
+1 2 G
+G G
+5 3 O
+0 O O O O O O 0 O O 0 O O 0 O
+3 2 Y
+0 Y 0 Y Y Y
+3 2 O
+O 0 O O O O
+3 2 G
+G G 0 G G G
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+2 4 G
+G 0 G G G G G 0
+2 4 G
+0 G G G 0 G 0 G
+5 3 O
+O 0 O 0 0 O O O O O 0 O 0 0 O
+6 4 R
+R R 0 0 0 0 R R R R 0 0 0 0 R R R R 0 0 0 0 R R
+5 6 P
+0 0 P 0 0 0 P P P 0 P P P P P 0 P P P 0 0 P P P 0 0 P P P 0
+3 3 Y
+0 Y 0 0 Y 0 Y Y Y
+3 5 O
+0 O O 0 O 0 O O 0 0 O O O O 0
+2 3 G
+0 G G G G G
+3 5 R
+R R R 0 R R R 0 R R R R 0 R 0
+3 3 O
+O O O O 0 O O O O
+4 6 P
+P P 0 0 P P 0 0 0 P P 0 0 P P 0 0 0 P P 0 0 P P
+4 2 G
+G G G G 0 G G 0
+3 3 O
+O O O O 0 O O O O
+4 1 Y
+Y Y Y Y
+4 2 G
+G G G G 0 G G 0
+2 4 Y
+0 Y Y Y Y Y 0 Y
+6 4 P
+0 0 0 0 P P 0 0 P P P P P P P P 0 0 P P 0 0 0 0
+5 6 P
+0 0 P 0 0 0 P P P 0 P P P P P 0 P P P 0 0 P P P 0 0 P P P 0
+6 4 P
+P P 0 0 0 0 P P P P 0 0 0 0 P P P P 0 0 0 0 P P
+5 2 O
+O O O O O O 0 O 0 O
+5 5 O
+0 0 O 0 0 0 O O O 0 O O 0 O O 0 O O O 0 0 0 O 0 0
+3 3 G
+0 G 0 0 G 0 G G G
+3 2 Y
+0 Y 0 Y Y 0
+3 3 O
+O O O O 0 O O O O
+2 3 O
+0 O O O O O
+5 3 O
+O 0 0 O 0 O O O O O 0 0 O 0 O
+3 5 P
+P P P 0 P 0 0 P 0 P P P 0 P 0
+2 4 O
+O O O 0 O 0 O O
+4 5 R
+0 R R R 0 R 0 0 R R R 0 0 0 R 0 0 R R 0
+3 2 G
+0 G G G G G
+6 7 P
+0 0 0 P 0 0 0 0 P P P 0 0 P P P P P P P 0 P 0 P 0 P P P P P 0 0 P P P 0 0 0 0 P 0 0
+4 1 G
+G G G G
+3 5 R
+R R 0 0 R R R R 0 0 R R R R 0
+6 5 P
+0 0 P 0 0 0 0 P P P P P P P P P P P 0 P P P P P 0 0 P 0 0 0
+5 4 P
+P 0 0 0 0 P 0 P P P P P P 0 P 0 0 P 0 0
+2 2 Y
+Y 0 Y Y
+4 3 O
+O O O O O 0 0 O O O O O
+3 5 O
+0 O O O O 0 0 O O 0 O 0 O O 0
+6 4 P
+0 0 0 0 P P 0 0 P P P P P P P P 0 0 P P 0 0 0 0
+3 5 R
+0 R R R R 0 0 R R R R 0 0 R R
+3 2 G
+G 0 0 G G G
+5 3 P
+0 P 0 0 P P P P P P 0 P 0 0 P
+3 3 G
+G 0 0 G G G G 0 0
+2 5 O
+O O O 0 O O O 0 O O
+3 3 Y
+Y Y Y 0 Y 0 0 Y 0
+5 3 O
+0 O 0 0 O O O O O O O 0 O 0 0
+3 5 R
+R R 0 0 R R R R 0 0 R R R R 0
+5 4 O
+O O O 0 O O 0 O 0 O O 0 O 0 O O 0 O O O
+5 3 R
+0 R 0 0 R R R R R R 0 R 0 0 R
+5 6 P
+0 P P P 0 P P P P P 0 0 P 0 0 0 0 P P 0 0 0 P P 0 0 0 P 0 0
+2 3 Y
+Y Y Y 0 Y Y
+4 4 O
+0 0 O 0 O O O O 0 0 O 0 0 0 O 0
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+5 4 R
+R R R 0 R R 0 R 0 R R 0 R 0 R R 0 R R R
+4 5 O
+O O O 0 0 0 O 0 0 O O O 0 O 0 0 0 O O 0
+5 5 R
+0 R 0 0 0 0 R 0 R 0 R R R R 0 R 0 R R R 0 0 0 0 R
+3 3 G
+0 G 0 G G G 0 G 0
+3 3 O
+0 O O 0 O 0 O O 0
+2 3 G
+0 G G G 0 0
+3 5 O
+0 O 0 O O O 0 O 0 0 O 0 O O O
+3 3 O
+O O O O 0 O O O O
+2 5 P
+P P 0 P P P 0 P P P
+2 2 G
+0 G G G
+3 3 G
+0 G 0 G G G 0 G 0
+6 7 R
+0 0 R 0 0 0 0 R R R 0 0 R R R R R 0 R 0 R 0 R R R R R R R 0 0 R R R 0 0 0 0 R 0 0 0
+3 3 O
+0 0 O O O O O 0 0
+2 1 Y
+Y Y
+5 3 O
+O 0 0 O 0 O O O O O O 0 0 O 0
+4 6 P
+0 0 P P 0 0 P P 0 P P 0 0 P P 0 P P 0 0 P P 0 0
+2 3 Y
+0 0 Y Y Y 0
+3 5 O
+O O O 0 O 0 0 O 0 O O O 0 O 0
+5 4 R
+0 0 0 R R 0 0 R R 0 0 R R 0 0 R R 0 0 0
+3 4 R
+0 R 0 0 R 0 R R R 0 R 0
+3 3 G
+0 G 0 G G G 0 G 0
+2 2 G
+G G G 0
+1 2 G
+G G
+3 3 G
+G G G 0 G 0 0 G 0
+1 2 Y
+Y Y
+4 2 G
+G G G G 0 0 G 0
+2 4 Y
+Y 0 Y 0 Y Y Y 0
+4 4 R
+0 0 R 0 R R R R 0 0 R 0 0 0 R 0
+2 4 Y
+0 Y Y Y 0 Y 0 Y
+1 2 Y
+Y Y
+3 4 P
+P 0 0 P P 0 0 P P 0 0 P
+4 5 R
+0 R R 0 0 R 0 0 0 R R R 0 0 R 0 R R R 0
+5 4 P
+0 0 P 0 0 P P P 0 P P 0 P P P P 0 0 0 0
+3 4 O
+0 0 O 0 O O O O 0 O 0 0
+5 4 P
+0 0 P 0 0 P P P 0 P P 0 P P P P 0 0 0 0
+1 4 G
+G G G G
+4 3 O
+O 0 0 0 O O O O 0 0 0 O
+2 3 G
+G G G G G 0
+6 4 P
+0 0 0 0 P P 0 0 P P P P P P P P 0 0 P P 0 0 0 0
+4 2 G
+0 G G 0 G G G G
+5 3 O
+0 O 0 0 O O O O O O O 0 O 0 0
+5 3 R
+0 R R 0 R R R 0 R R 0 R R R R
+6 7 R
+0 0 R 0 0 0 0 R R R 0 0 R R R R R 0 R 0 R 0 R R R R R R R 0 0 R R R 0 0 0 0 R 0 0 0
+5 2 O
+O O O O O O 0 O 0 O
+3 3 R
+0 0 R R R R R 0 0
+2 5 O
+O O 0 O O O 0 O O O
+4 5 R
+0 R R 0 0 R 0 0 0 R R R 0 0 R 0 R R R 0
+1 2 G
+G G
+3 2 Y
+0 Y 0 Y Y Y
+2 4 G
+0 G 0 G G G 0 G
+3 5 P
+0 P 0 P P P P 0 P 0 P P P P P
+4 3 O
+O O 0 0 0 O O 0 0 0 O O
+2 3 R
+R R R 0 R R
+5 2 P
+P P P P P P 0 P 0 P
+5 4 R
+R 0 R R R R 0 R 0 R R 0 R 0 R R R R 0 R
+3 3 O
+O O O O 0 O O O O
+5 5 P
+P P P 0 P P 0 P 0 P 0 0 P 0 0 P P P P P P P 0 P P
+5 3 R
+0 R 0 R 0 R R R R R R 0 R 0 R
+3 3 Y
+0 Y 0 Y Y Y 0 Y 0
+4 5 R
+0 R R 0 0 R 0 0 0 R R R 0 0 R 0 R R R 0
+2 1 Y
+Y Y
+5 5 P
+P P 0 P P P P P P P 0 0 P 0 0 P 0 P 0 P P P P 0 P
+3 4 O
+O O O O 0 O O 0 O O O O
+2 4 G
+G 0 G G G G G 0
+2 3 P
+P P P 0 P 0
+5 3 P
+P 0 0 P 0 P P P P P 0 0 P 0 P
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+5 5 P
+P P 0 P P P P 0 0 P 0 P P P P P P 0 0 0 P P 0 P P
+5 5 R
+0 R R 0 0 0 0 R R R 0 R R 0 0 0 R R R 0 R R 0 0 0
+1 1 G
+G
+3 3 O
+O 0 0 O 0 O O O O
+3 3 P
+0 P 0 P P P 0 P 0
+3 2 G
+0 G 0 G G G
+2 2 G
+G G G 0
+1 2 G
+G G
+5 5 P
+P P P 0 P P 0 P 0 P 0 0 P 0 0 P P P P P P P 0 P P
+3 5 P
+0 P P P P 0 0 P P P P 0 0 P P
+3 2 R
+0 R 0 R R R
+5 3 P
+0 P 0 0 P P P P P P 0 P 0 0 P
+5 4 R
+R 0 R R R R 0 R 0 R R 0 R 0 R R R R 0 R
+2 3 G
+0 G 0 G G G
+4 2 G
+G 0 0 G G G G G
+3 5 R
+0 R R R R 0 0 R R R R 0 0 R R
+3 5 R
+0 R 0 R R R R 0 R R R 0 R R R
+2 3 Y
+Y Y Y Y Y 0
+3 3 O
+O O O 0 O 0 0 O 0
+5 5 R
+0 0 0 R 0 0 R 0 R 0 0 R R R R R R R 0 R R 0 0 0 0
+4 4 O
+0 O 0 0 0 O 0 0 O O O O 0 O 0 0
+2 3 Y
+Y Y Y Y 0 Y
+2 2 G
+G G G 0
+5 3 O
+0 O 0 0 O O O O O O 0 O 0 0 O
+3 2 Y
+Y Y Y 0 Y 0
+3 3 Y
+0 Y 0 Y Y Y 0 Y 0
+5 5 P
+0 0 P 0 0 0 P P P 0 P P 0 P P 0 P P P 0 0 0 P 0 0
+4 1 G
+G G G G
+4 3 O
+0 0 O O 0 O O 0 O O 0 0
+5 5 O
+0 0 O 0 0 0 O O O 0 O O 0 O O 0 O O O 0 0 0 O 0 0
+4 3 O
+O O O O O 0 0 O O O O O
+5 4 P
+0 0 P 0 0 P 0 P P P P P P 0 P 0 0 0 0 P
+2 3 Y
+Y Y Y 0 Y Y
+5 6 O
+0 O O O 0 0 O O O 0 0 O O O 0 O O O O O 0 O O O 0 0 0 O 0 0
+7 6 R
+0 0 0 R 0 0 0 0 0 R R R 0 0 0 R R 0 R R 0 R R R R R R R 0 R R 0 R R 0 0 0 R R R 0 0
+4 3 O
+O 0 0 0 O O O O 0 0 0 O
+2 5 O
+O O O 0 O O O 0 O O
+5 5 O
+0 0 O 0 0 0 O O O 0 O O 0 O O 0 O O O 0 0 0 O 0 0
+2 2 Y
+Y Y Y 0
+3 2 O
+O 0 O O O O
+3 2 G
+0 G G G G G
+3 5 R
+R R 0 0 R R R R 0 0 R R R R 0
+4 2 G
+G 0 0 G G G G G
+2 2 G
+G G G 0
+5 3 O
+0 O O O O O O 0 O O 0 O O 0 O
+4 1 Y
+Y Y Y Y
+3 5 O
+0 O O 0 O 0 O O 0 0 O O O O 0
+2 3 Y
+Y Y Y 0 Y 0
+2 2 Y
+Y Y 0 Y
+2 4 Y
+0 Y Y Y Y Y 0 Y
+3 5 R
+R R R 0 R R R 0 R R R R 0 R 0
+2 3 O
+O O O 0 O O
+4 3 P
+0 P 0 0 P P P P 0 P 0 0
+2 5 O
+O O 0 O O O 0 O O O
+5 5 R
+0 0 0 0 R R 0 R R R R R R R 0 0 R 0 R 0 0 R 0 0 0
+3 5 O
+0 O O 0 O 0 O O 0 0 O O O O 0
+2 3 G
+G G G 0 G 0
+2 3 G
+G G G 0 G 0
+5 2 R
+R R R R R R 0 R 0 R
+2 3 G
+G 0 G G G 0
+4 2 O
+O 0 0 O O O O O
+5 2 O
+O O O O O O 0 O 0 O
+4 2 O
+O O O O O 0 0 O
+2 5 O
+O O 0 O O O 0 O O O
+4 2 G
+0 0 G 0 G G G G
+3 4 P
+P 0 0 P P 0 0 P P 0 0 P
+3 2 P
+P 0 0 P P P
+5 6 P
+0 P P P 0 0 P P P 0 0 P P P 0 P P P P P 0 P P P 0 0 0 P 0 0
+5 3 R
+R 0 R R 0 R R 0 R R R R R R 0
+3 2 G
+G G G 0 G G
+3 4 O
+O 0 0 O O 0 0 O O 0 0 O
+5 2 P
+P 0 P 0 P P P P P P
+3 5 P
+0 P P P P 0 0 P P P P 0 0 P P
+2 3 G
+0 G G G G G
+5 5 P
+P 0 P P P P 0 P 0 P 0 0 P 0 0 P P P P P P P 0 P P
+5 2 O
+O 0 O 0 O O O O O O
+5 5 P
+P P 0 P P P P P P P 0 0 P 0 0 P 0 P 0 P P P P 0 P
+4 4 O
+0 O 0 0 0 O 0 0 O O O O 0 O 0 0
+4 5 R
+0 R R 0 0 0 R 0 R R R 0 0 R 0 0 0 R R R
+3 4 O
+O O 0 0 O 0 0 O 0 0 O O
+3 4 O
+0 O 0 O O O 0 O 0 0 O 0
+4 1 Y
+Y Y Y Y
+3 3 Y
+0 0 Y Y Y Y 0 0 Y
+2 3 Y
+Y Y Y Y 0 Y
+2 4 G
+0 G 0 G G G 0 G
+5 6 P
+0 P P P 0 0 P P P 0 0 P P P 0 P P P P P 0 P P P 0 0 0 P 0 0
+4 6 P
+0 0 P P 0 0 P P 0 P P 0 0 P P 0 P P 0 0 P P 0 0
+2 3 Y
+Y Y Y Y Y 0
+7 6 P
+0 0 P P P 0 0 0 P P 0 P P 0 P P P P P P P 0 P P 0 P P 0 0 0 P P P 0 0 0 0 0 P 0 0 0
+1 2 Y
+Y Y
+5 6 P
+0 P P P 0 P P P P P 0 0 P 0 0 0 P P 0 0 0 P P 0 0 0 0 P 0 0
+3 2 Y
+0 Y 0 Y Y Y
+4 2 G
+G G G G 0 G 0 0
+4 4 O
+0 O 0 0 0 O 0 0 O O O O 0 O 0 0
+3 2 Y
+Y Y 0 0 Y 0
+1 2 G
+G G
+5 5 R
+0 0 R R 0 R R R 0 0 0 0 R R 0 0 R R R 0 0 0 0 R R
+5 3 R
+0 R 0 R 0 R R R R R R 0 R 0 R
+5 3 R
+0 R 0 R 0 R R R R R R 0 R 0 R
+3 3 O
+O 0 0 O O O 0 0 O
+3 2 Y
+Y Y Y 0 0 Y
+4 2 G
+G G G G 0 G G 0
+4 2 Y
+Y Y Y Y 0 Y Y 0
+3 3 Y
+Y Y Y Y 0 0 Y Y 0
+2 4 Y
+0 Y Y Y Y Y 0 Y
+4 1 G
+G G G G
+3 3 O
+O O O O 0 O O O O
+6 7 P
+0 0 0 P 0 0 0 0 P P P 0 0 P P P P P P P 0 P 0 P 0 P P P P P 0 0 P P P 0 0 0 0 P 0 0
+5 3 R
+R 0 R R 0 R R 0 R R R R R R 0
+3 2 Y
+Y Y 0 Y Y Y
+3 3 O
+0 0 O O 0 O O O O
+5 4 R
+0 0 0 R R 0 0 R R 0 0 R R 0 0 R R 0 0 0
+3 3 O
+O O O O 0 O O O O
+3 2 Y
+0 Y 0 Y Y Y
+2 3 G
+0 0 G G 0 G
+3 2 Y
+0 0 Y Y Y Y
+4 3 O
+0 0 O 0 O O O O 0 0 O 0
+5 4 O
+O O 0 0 0 0 O O 0 0 0 0 O O 0 0 0 0 O O
+3 3 O
+O O O O 0 O O O O
+5 2 P
+P 0 P 0 P P P P P P
+3 2 O
+O 0 O O O O
+3 3 G
+0 G 0 0 G 0 G G G
+4 4 O
+0 O 0 0 O O O O 0 O 0 0 0 O 0 0
+2 4 G
+0 G G G 0 G 0 G
+4 5 R
+0 R R R 0 R 0 0 R R R 0 0 0 R 0 0 R R 0
+4 2 O
+O 0 0 O O O O O
+3 2 G
+G G 0 0 G 0
+4 5 R
+R 0 0 0 R R 0 0 0 R R 0 0 0 R R 0 0 0 R
+4 5 R
+0 R R 0 0 R 0 0 0 R R R 0 0 R 0 R R R 0
+4 2 Y
+Y Y Y Y 0 Y 0 0
+3 3 O
+O O O O 0 O O O O
+5 4 P
+0 0 P 0 0 P 0 P P P P P P 0 P 0 0 0 0 P
+3 4 Y
+Y Y 0 0 Y 0 0 Y 0 0 Y Y
+2 2 Y
+Y 0 Y Y
+3 2 G
+G G G 0 G G
+6 7 R
+0 0 R 0 0 0 0 R R R 0 0 R R R R R 0 R 0 R 0 R R R R R R R 0 0 R R R 0 0 0 0 R 0 0 0
+3 4 O
+O O 0 0 O 0 0 O 0 0 O O
+1 1 G
+G
+3 3 Y
+0 0 Y Y Y Y 0 0 Y
+6 5 P
+0 0 P 0 0 0 0 P P P P P P P P P P P 0 P P P P P 0 0 P 0 0 0
+2 2 G
+G G 0 G
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+3 3 Y
+0 Y 0 Y Y Y 0 Y 0
+2 3 O
+O O O 0 O O
+3 3 O
+O O O O 0 O 0 0 O
+4 4 O
+0 O 0 0 O O O O 0 O 0 0 0 O 0 0
+7 6 P
+0 0 0 P 0 0 0 0 0 P P P 0 0 0 P P 0 P P 0 P P P P P P P 0 P P 0 P P 0 0 0 P P P 0 0
+4 4 O
+0 O 0 0 O O O O 0 O 0 0 0 O 0 0
+3 3 G
+G 0 0 G G G G 0 0
+4 3 O
+O O O O O 0 0 O O O O O
+5 6 P
+0 0 P 0 0 0 P P P 0 P P P P P 0 P P P 0 0 P P P 0 0 P P P 0
+2 3 G
+G G G G G 0
+5 5 P
+P P 0 P P 0 0 0 P P P P P P 0 P 0 0 P P P P 0 P P
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+3 3 O
+O O O O 0 O O O O
+2 4 Y
+0 Y Y Y Y Y 0 Y
+5 3 O
+0 0 O 0 O O O O O O O 0 0 O 0
+3 3 G
+G 0 0 G G G 0 0 G
+3 4 O
+O O 0 0 O 0 0 O 0 0 O O
+3 5 P
+P P P 0 P 0 0 P 0 P P P 0 P 0
+3 4 O
+0 O O 0 O 0 0 O 0 O O 0
+4 6 O
+O O 0 0 O O 0 0 0 O O 0 0 O O 0 0 0 O O 0 0 O O
+3 3 O
+O O O O 0 O O O O
+3 5 R
+R R 0 0 R R R R 0 0 R R R R 0
+4 3 O
+0 0 0 O O O O O O 0 0 0
+6 4 R
+R R 0 0 0 0 R R R R 0 0 0 0 R R R R 0 0 0 0 R R
+3 3 G
+0 G 0 G G G 0 G 0
+5 4 P
+P 0 P P P P 0 P 0 P P 0 P 0 P P P P 0 P
+4 5 R
+0 R R 0 0 0 R 0 R R R 0 0 R 0 0 0 R R R
+1 4 O
+O O O O
+4 3 O
+0 0 0 O O O O O O 0 0 0
+5 6 P
+0 P P P 0 0 P P P 0 0 P P P 0 P P P P P 0 P P P 0 0 0 P 0 0
+2 4 O
+0 O O O 0 O 0 O
+3 5 O
+0 O O O O 0 0 O O 0 O 0 O O 0
+3 3 G
+0 G 0 G G G 0 G 0
+2 3 Y
+0 0 Y Y Y 0
+3 3 O
+O 0 0 O O O 0 0 O
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+7 6 R
+0 0 0 R 0 0 0 0 0 R R R 0 0 0 R R 0 R R 0 R R R R R R R 0 R R 0 R R 0 0 0 R R R 0 0
+4 5 R
+0 R R R 0 R 0 0 R R R 0 0 0 R 0 0 R R 0
+2 4 G
+G 0 G G G 0 G 0
+5 6 P
+0 0 P 0 0 0 P P P 0 P P P P P 0 P P P 0 0 P P P 0 0 P P P 0
+6 7 P
+0 0 0 P 0 0 0 0 P P P 0 0 P P P P P P P 0 P 0 P 0 P P P P P 0 0 P P P 0 0 0 0 P 0 0
+4 3 O
+O O O O O 0 0 O O O O O
+2 4 G
+G 0 G G G G G 0
+5 3 P
+P 0 P 0 P P P P P P 0 P 0 P 0
+2 5 O
+O O O 0 O O O 0 O O
+5 3 O
+0 O O O O O O 0 O O 0 O O 0 O
+2 5 O
+O O O 0 O O O 0 O O
+3 3 P
+0 P P 0 P 0 P P 0
+1 2 G
+G G
+2 2 G
+G 0 G G
+3 3 O
+0 0 O O 0 O O O O
+4 3 P
+0 0 P 0 P P P P 0 0 P 0
+2 3 Y
+0 Y Y Y Y Y
+3 4 O
+0 O 0 0 O 0 O O O 0 O 0
+5 5 R
+0 0 R R 0 R R R 0 0 0 0 R R 0 0 R R R 0 0 0 0 R R
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+3 5 P
+0 P 0 P P P 0 P 0 0 P 0 P P P
+4 3 O
+0 0 O O 0 O O 0 O O 0 0
+4 2 O
+0 O 0 0 O O O O
+5 3 R
+R 0 R 0 R R R R R R 0 R 0 R 0
+5 2 R
+R R R R R R 0 R 0 R
+6 7 R
+0 0 R 0 0 0 0 R R R 0 0 R R R R R 0 R 0 R 0 R R R R R R R 0 0 R R R 0 0 0 0 R 0 0 0
+3 3 O
+O O O O 0 O O 0 0
+5 5 R
+0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
+3 4 P
+0 P 0 P P P 0 P 0 0 P 0
+2 3 Y
+Y 0 Y Y Y Y
+4 5 R
+R R R 0 0 0 R 0 0 R R R 0 R 0 0 0 R R 0
+4 5 P
+P 0 0 0 P P 0 0 0 P P 0 0 0 P P 0 0 0 P
+3 3 Y
+0 Y 0 Y Y Y 0 Y 0
+4 5 P
+0 P P 0 0 0 P 0 P P P 0 0 P 0 0 0 P P P
+3 5 R
+R R 0 0 R R R R 0 0 R R R R 0
+7 6 R
+0 0 R R R 0 0 0 R R 0 R R 0 R R R R R R R 0 R R 0 R R 0 0 0 R R R 0 0 0 0 0 R 0 0 0
+3 3 O
+0 0 O O 0 O O O O
+2 3 R
+0 R R R 0 R
+4 4 P
+0 0 P 0 0 0 P 0 P P P P 0 0 P 0
+5 3 R
+R 0 R 0 R R R R R R 0 R 0 R 0
+4 3 O
+O 0 0 0 O O O O 0 0 0 O
+2 3 O
+O O 0 O O O
+2 3 G
+G 0 G G G 0
+2 4 G
+0 G G G G G 0 G
+5 4 R
+R R 0 0 0 0 R R 0 0 0 0 R R 0 0 0 0 R R
+6 4 P
+0 0 0 0 P P 0 0 P P P P P P P P 0 0 P P 0 0 0 0
+2 5 O
+O O 0 O O O 0 O O O
+5 2 O
+O O O O O O 0 O 0 O
+3 3 O
+O 0 0 O O O 0 0 O
+2 3 G
+0 G G G G G
+3 2 O
+O 0 O O O O
+4 3 O
+O O O O O 0 0 O O O O O
+3 2 Y
+Y Y 0 0 Y 0
+3 3 G
+0 G 0 G G G 0 G 0
+3 3 O
+O O O O 0 O O O O
+6 4 R
+0 0 0 0 R R 0 0 R R R R R R R R 0 0 R R 0 0 0 0
+6 5 P
+0 0 0 P 0 0 P P P P P 0 P P P P P P P P P P P 0 0 0 0 P 0 0
+4 4 O
+0 0 O 0 0 0 O 0 O O O O 0 0 O 0
+4 3 O
+0 0 O O 0 O O 0 O O 0 0
+3 5 O
+0 O O O O 0 0 O O O O 0 0 O O
+3 3 O
+O O O O 0 O O O O
+3 2 G
+0 G G G G G
+4 1 G
+G G G G
+3 5 P
+P P 0 0 P P P P 0 0 P 0 0 P P
+5 5 P
+P P 0 P P 0 0 0 P P P P P P 0 P 0 0 P P P P 0 P P
+4 6 P
+0 0 P P 0 0 P P 0 P P 0 0 P P 0 P P 0 0 P P 0 0
+3 5 P
+0 P 0 P P P 0 P 0 0 P 0 P P P
+4 4 O
+0 0 O 0 0 0 O 0 O O O O 0 0 O 0
+5 6 P
+0 P P P 0 0 P P P 0 0 P P P 0 P P P P P 0 P P P 0 0 0 P 0 0
+3 3 G
+0 G 0 G G G 0 G 0
+2 3 Y
+0 Y 0 Y Y Y
+5 3 R
+R 0 R 0 R R R R R R 0 R 0 R 0
+3 3 G
+0 G 0 G G G 0 G 0
+5 4 R
+0 0 0 0 R R R R 0 R R 0 R R R 0 0 R 0 0
+5 4 R
+R R R 0 R R 0 R 0 R R 0 R 0 R R 0 R R R
+4 1 G
+G G G G
+5 5 P
+P P 0 P P P P P P P 0 0 P 0 0 P 0 P 0 P P P P 0 P
+3 4 O
+O O O O 0 O O 0 O O O O
+2 4 G
+0 G 0 G G G 0 G
+2 3 O
+0 0 O O 0 O
+5 3 R
+R R R R 0 R R 0 R R R 0 R R 0
+3 5 O
+0 O O O O 0 0 O O 0 O 0 O O 0
+3 5 P
+P P 0 0 P P P P 0 0 P P P P 0
+4 3 O
+O 0 0 0 O O O O 0 0 0 O
+4 3 P
+0 0 P P 0 P P 0 P P 0 0
+3 2 G
+G G G 0 G 0
+3 5 P
+P P P 0 P 0 0 P 0 P P P 0 P 0
+5 5 R
+0 0 0 0 R R 0 R R R R R R R 0 0 R 0 R 0 0 R 0 0 0
+3 3 P
+P P 0 P 0 0 P P P
+5 3 O
+O 0 O 0 0 O O O O O 0 O 0 0 O
+5 5 R
+0 0 0 R R 0 R R R 0 0 0 R R 0 R R R 0 0 0 0 R R 0
+3 3 O
+O O O O 0 O O 0 0
+6 5 P
+0 0 0 0 P 0 0 0 0 0 P P P P P P P P 0 P P 0 P P 0 0 0 0 P 0
+5 2 O
+O 0 O 0 O O O O O O
+2 5 O
+O O 0 O O O 0 O O O
+4 4 P
+0 P 0 0 P P P P 0 P 0 0 0 P 0 0
+4 3 O
+0 O 0 0 O O O O 0 O 0 0
+5 4 O
+0 0 O 0 0 O O O 0 O O 0 O O O O 0 0 0 0
+7 6 R
+0 0 0 R 0 0 0 0 0 R R R 0 0 0 R R 0 R R 0 R R R R R R R 0 R R 0 R R 0 0 0 R R R 0 0
+5 4 R
+0 0 R 0 0 R R R 0 R R 0 R R R R 0 0 0 0
+3 3 Y
+0 Y 0 Y Y Y 0 Y 0
+2 2 G
+G 0 G G
+5 5 R
+R 0 0 0 0 R R R 0 R 0 R R R R 0 R 0 R 0 0 0 0 R 0
+3 3 Y
+Y 0 0 Y 0 Y Y Y Y
+1 2 Y
+Y Y
+2 3 O
+O O 0 O O O
+4 3 P
+0 0 P P 0 P P 0 P P 0 0
+3 2 G
+G G G 0 G 0
+2 4 G
+G 0 G G G G G 0
+3 3 O
+O O O O 0 O O O O
+5 3 O
+O 0 O 0 O O O O O O 0 O 0 O 0
+2 3 G
+0 G 0 G G G
+3 3 P
+0 P 0 P P P 0 P 0
+3 5 P
+0 P P 0 P 0 P P 0 0 P P P P 0
+5 6 P
+0 0 P 0 0 0 0 P P 0 0 0 P P 0 0 0 P 0 0 P P P P P 0 P P P 0
+5 6 P
+0 0 P 0 0 0 0 P P 0 0 0 P P 0 0 0 P 0 0 P P P P P 0 P P P 0
+3 4 O
+O O O O 0 O O 0 O O O O
+3 4 O
+O O O O 0 O O 0 O O O O
+4 3 O
+O O O O O 0 0 O O O O O
+5 3 O
+O 0 O O 0 O O 0 O O O O O O 0
+2 5 O
+O O 0 O O O 0 O O O
+4 3 O
+0 O 0 0 O O O O 0 O 0 0
+5 5 P
+P P 0 P P P P P P P 0 0 P 0 0 P 0 P 0 P P P P 0 P
+2 4 O
+O O 0 O 0 O O O
+2 3 Y
+Y Y Y Y Y 0
+5 5 P
+0 0 P P 0 P P P 0 0 0 0 P P 0 0 P P P 0 0 0 0 P P
+4 5 P
+0 P P 0 0 P 0 0 0 P P P 0 0 P 0 P P P 0
+5 4 R
+R R R 0 R R 0 R 0 R R 0 R 0 R R 0 R R R
+2 3 G
+G 0 G G G 0
+3 5 P
+0 P P P P 0 0 P P 0 P 0 P P 0
+2 2 Y
+Y 0 Y Y
+3 3 Y
+Y 0 0 Y Y Y Y 0 0
+5 4 R
+R R R 0 R R 0 R 0 R R 0 R 0 R R 0 R R R
+3 5 P
+P P P 0 P 0 0 P 0 P P P 0 P 0
+3 3 Y
+Y Y Y Y 0 0 Y Y 0
+3 3 G
+0 G 0 G G G 0 G 0
+5 4 R
+0 0 R 0 0 R R R 0 R R 0 R R R R 0 0 0 0
+1 1 Y
+Y
+5 4 R
+0 0 0 0 R R R R 0 R R 0 R R R 0 0 R 0 0
+5 3 O
+0 O 0 0 O O O O O O 0 O 0 0 O
+3 3 Y
+0 Y 0 0 Y 0 Y Y Y
+2 2 G
+G G 0 G
+3 3 O
+O O O O 0 O O O O
+4 3 R
+R R 0 0 0 R R 0 0 0 R R
+2 5 O
+O O 0 O O O 0 O O O
+3 2 Y
+0 Y Y Y Y Y
+2 2 Y
+0 Y Y Y
+1 4 G
+G G G G
+4 6 P
+0 0 P P 0 0 P P 0 P P 0 0 P P 0 P P 0 0 P P 0 0
+3 3 Y
+0 0 Y Y Y Y 0 0 Y
+3 3 G
+G G G 0 G 0 0 G 0
+4 5 R
+0 R R 0 0 R 0 0 0 R R R 0 0 R 0 R R R 0
+3 5 P
+0 P 0 P P P 0 P 0 0 P 0 P P P
+2 3 Y
+0 Y Y Y 0 Y
+5 4 R
+R R R 0 R R 0 R 0 R R 0 R 0 R R 0 R R R
+5 6 P
+0 P P P 0 P P P P P 0 0 P 0 0 0 P P 0 0 0 P P 0 0 0 0 P 0 0
+1 4 Y
+Y Y Y Y
+5 3 R
+R 0 R R 0 R R 0 R R R R R R 0
+3 4 O
+O O O O 0 O O 0 O O O O
+5 5 P
+P P P 0 P P 0 P 0 P 0 0 P 0 0 P P P P P P P 0 P P
+6 7 R
+0 0 0 R 0 0 0 0 R R R 0 0 R R R R R R R 0 R 0 R 0 R R R R R 0 0 R R R 0 0 0 0 R 0 0
+4 1 Y
+Y Y Y Y
+2 4 G
+G 0 G G G G G 0
+2 3 Y
+Y Y Y Y Y 0
+5 4 R
+R 0 R R R R 0 R 0 R R 0 R 0 R R R R 0 R
+3 4 O
+O O O O 0 O O 0 O O O O
+3 2 Y
+Y Y Y Y 0 0
+5 3 P
+0 P 0 0 P P P P P P 0 P 0 0 P
+5 6 P
+0 0 P 0 0 0 P P P 0 P P P P P 0 P P P 0 0 P P P 0 0 P P P 0
+3 4 O
+O O O O 0 O O 0 O O O O
+5 3 R
+0 R 0 R 0 R R R R R R 0 R 0 R
+4 6 P
+0 0 P P 0 0 P P 0 P P 0 0 P P 0 P P 0 0 P P 0 0
+2 3 Y
+0 Y Y Y Y Y
+5 4 R
+0 0 0 R R 0 0 R R 0 0 R R 0 0 R R 0 0 0
+3 3 G
+0 G 0 0 G 0 G G G
+7 12 B
+B B B B B B B B B B B B B B B B 0 0 0 B B B B 0 0 0 B B B B 0 0 0 0 0 B B 0 0 0 0 0 B B 0 0 B B B B B 0 0 B B B B B 0 0 0 B B B B 0 0 0 B B B B B B B B B B B B B B B B
+7 12 B
+B B B B B 0 0 B B B B B B 0 B B 0 0 0 B B B B 0 0 0 B B B B 0 0 0 B B B B 0 0 0 B B B B 0 0 0 B B B B 0 0 0 B B B B 0 0 0 B B B B 0 0 0 B B B B B B B B 0 B B B B B 0 0
+7 12 B
+B B B B B 0 0 B B B B B B 0 B B 0 0 0 B B B B 0 0 0 B B B B 0 0 0 B B B B 0 0 0 B B B B 0 0 0 B B B B 0 0 0 B B B B 0 0 0 B B B B 0 0 0 B B B B B B B B 0 B B B B B 0 0
+B 100 0
+Y 1 3
+G 3 1
+P 5 2
+O 5 3
+R 8 4
