@@ -14,6 +14,12 @@ How do you score high? That depends on the colors of the blocks you used, the ro
 
 Don't worry, we took away most of the annoying work so you can focus on strategy. All you have to do is write a `.txt` file where each line specifies which block (by block ID) to drop in the field, and at which x-coordinate. 
 
+Submit your solution at: https://dropblox.azurewebsites.net/submit
+
+## Leaderboard
+
+Go to: https://dropblox.azurewebsites.net/leaderboard
+
 ## Quickstart
 
 There are two options: 1. For a really-quickstart, open [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NmfslkeZ4TWp-PZmq6XqWjoZhABoV82W?usp=sharing) and 2. Described below.
