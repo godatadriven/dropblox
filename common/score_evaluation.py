@@ -3,19 +3,11 @@ from typing import List, Tuple
 
 import numpy as np
 
-from dropblox.data_models import Block, Field, Rewards, Solution
+from common.data_models import Block, Field, Rewards, Solution
 
 
-def write_file(solution: Solution, filename: str) -> None:
-    """Write an output file containing a solution block list"""
-    with open(filename, "w") as fp:
-        for block_id, block_position in zip(
-            solution.block_ids, solution.block_positions
-        ):
-            print(f"{block_id} {block_position}", file=fp)
-
-
-def parse_input_file(filename) -> Tuple[Field, List[Block], Rewards]:
+def parse_puzzle(filename: str) -> Tuple[Field, List[Block], Rewards]:
+    """Parse puzzle specification into a Field, Block list and Rewards."""
     lines = Path(filename).read_text().splitlines()
 
     width, height = map(int, lines.pop(0).split())
@@ -42,18 +34,16 @@ def parse_input_file(filename) -> Tuple[Field, List[Block], Rewards]:
 
     return field, blocks, Rewards(points, multiplication_factors)
 
-
-def parse_solution(data: str) -> Solution:
-    solution = Solution()
-    for line in data.splitlines():
-        block_id, block_position = map(int, line.split())
-        solution.block_ids.append(block_id)
-        solution.block_positions.append(block_position)
-
-    return solution
+def write_solution(solution: Solution, filename: str) -> None:
+    """Write an output file containing a solution block list"""
+    with open(filename, "w") as fp:
+        for block_id, block_position in zip(
+            solution.block_ids, solution.block_positions
+        ):
+            print(f"{block_id} {block_position}", file=fp)
 
 
-def parse_solution_file(filename: str) -> Solution:
+def parse_solution(filename: str) -> Solution:
     """Read and parse a solution from file"""
     fp = open(filename, "r")
     lines = fp.readlines()
@@ -64,34 +54,6 @@ def parse_solution_file(filename: str) -> Solution:
         solution.block_positions.append(block_position)
 
     return solution
-
-
-def drop_blocks(field: Field, blocks: List[Block], solution: Solution) -> None:
-    """Drop the blocks for the solution in the playing field"""
-    if len(solution.block_ids) != len(set(solution.block_ids)):
-        raise Exception("You can only use each block once")
-    if (max(solution.block_ids) >= len(blocks)) or (min(solution.block_ids) < 0):
-        raise Exception("You used a block id that doesn't exist")
-
-    for block_id, block_position in zip(solution.block_ids, solution.block_positions):
-        add_block(field, blocks[block_id], block_position)
-
-
-def add_block(field: Field, block: Block, x: int) -> None:
-    """Try to add the block on position x;
-    If it fits then update the field, if not then raise exception.
-
-    x: position of the most left part of the block
-    """
-    y = field.height - block.height
-    fits_somewhere = False
-    while fit(field, block, x, y):
-        fits_somewhere = True
-        y -= 1
-
-    if not fits_somewhere:
-        raise Exception(f"{block} does not fit on x: {x}")
-    update(field, block, x, y + 1)
 
 
 def fit(field: Field, block: Block, x: int, y: int) -> bool:
@@ -132,3 +94,31 @@ def update(field: Field, block: Block, x: int, y: int) -> None:
         # has an empty space where in the field the value is filled
         new_row = [f if f else b for f, b in zip(field_row, block_row)]
         field.values[update_y][x : x + block.width] = new_row
+
+
+def drop_block(field: Field, block: Block, x: int) -> None:
+    """Try to add the block on position x;
+    If it fits then update the field, if not then raise exception.
+
+    x: position of the most left part of the block
+    """
+    y = field.height - block.height
+    fits_somewhere = False
+    while fit(field, block, x, y):
+        fits_somewhere = True
+        y -= 1
+
+    if not fits_somewhere:
+        raise Exception(f"{block} does not fit on x: {x}")
+    update(field, block, x, y + 1)
+
+
+def drop_blocks(field: Field, blocks: List[Block], solution: Solution) -> None:
+    """Drop the blocks for the solution in the playing field"""
+    if len(solution.block_ids) != len(set(solution.block_ids)):
+        raise Exception("You can only use each block once")
+    if (max(solution.block_ids) >= len(blocks)) or (min(solution.block_ids) < 0):
+        raise Exception("You used a block id that doesn't exist")
+
+    for block_id, block_position in zip(solution.block_ids, solution.block_positions):
+        drop_block(field, blocks[block_id], block_position)
