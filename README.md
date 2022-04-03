@@ -72,13 +72,17 @@ For exmple, you could write `solution.txt` with:
 ```
 which tells us to first drop the block with `block_id = 322` at x-coordinate `54`, and then drop the block with `block_id = 12` at x-coordinate `4`, etc.
 
-Submit your solution `.txt` at: https://dropblox.azurewebsites.net/submit
+Submit your solution `.txt` at: https://dropblox.azurewebsites.net/submit.
+
+> Note: loading the website may take a moment. If loading fails, please try again.
 
 ## Leaderboard 🏆
 
-Want to see how you compare to the rest? <br>
-Go to: https://dropblox.azurewebsites.net/leaderboard
+https://dropblox.azurewebsites.net/leaderboard
 
+## Contact
+
+dropblox@godatadriven.com
 
 ## About
 > This challenge is hosted by [GoDataDriven](https://godatadriven.com/) for PyConDE & PyData Berlin 2022.
