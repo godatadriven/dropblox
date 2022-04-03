@@ -41,7 +41,11 @@ Blocks have a shape, a color and a unique ID. They are defined as instances of t
 🟧⬜️🟧
 ⬜️⬜️🟧
 ```
-This is an orange block, so `B.color = "O"`, and `B.width = B.height = 3`. Blocks are dropped in the field *as is*, so they cannot be rotated. Also, a block can only be dropped once, but you don't have to use all of the provided blocks. Okay, now we can drop this block in our field, but how do we decide where to drop it?
+This is an orange block, so `B.color = "O"`, and `B.width = B.height = 3`. 
+
+Blocks can be dropped into the field from top to bottom, and they stop falling until they hit another block or the bottom of the field. Blocks are dropped in the field *as is*, so they cannot be rotated. Also, a block can only be dropped once, but you don't have to use all of the provided blocks. 
+
+Okay, now we can drop this block in our field, but how do we decide where to drop it?
 
 ### > Rewards
 
