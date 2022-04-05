@@ -122,3 +122,34 @@ def drop_blocks(field: Field, blocks: List[Block], solution: Solution) -> None:
 
     for block_id, block_position in zip(solution.block_ids, solution.block_positions):
         drop_block(field, blocks[block_id], block_position)
+
+def score_row(row: np.array, rewards: Rewards) -> int:
+    def color_points(row: list, rewards: Rewards) -> int:
+        score = 0
+        for color in row:
+            if color == "":
+                score -= 1
+            else:
+                score += rewards.points[color]
+        return score
+
+    def multiplication_factor_for_full_color_row(row: list, rewards: Rewards) -> int:
+        if row[0] != "" and len(set(row)) == 1:
+            return rewards.multiplication_factors[row[0]]
+        return 1
+
+    full_row = not any(row == "")
+    empty_row = "".join(row) == ""
+    score = 0
+    if not empty_row:
+        score += color_points(row, rewards)
+    if full_row:
+        score *= multiplication_factor_for_full_color_row(row, rewards)
+    return score
+
+def score_solution(field: Field, rewards: Rewards) -> int:
+    score = 0
+    for row in field.values:
+        score += score_row(row, rewards)
+    return score
+
