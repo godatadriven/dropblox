@@ -60,6 +60,19 @@ Lastly, you can get minus points. If a row contains at least one colored tile, a
 
 That should help you decide which blocks to drop, and where!
 
+The rewards are like follows:
+
+| Emoji | Color code | Points | Multiplication factor |
+|-------|------------|--------|-----------------------|
+| 🟦     | "B"        | 100    | 0                     |
+| 🟨     | "Y"        | 1      | 3                     |
+| 🟩     | "G"        | 1      | 1                     |
+| 🟪     | "P"        | 5      | 2                     |
+| 🟧     | "O"        | 5      | 3                     |
+| 🟥     | "R"        | 8      | 4                     |
+
+Good luck! 💪🏻
+
 ## Your Solution 💻
 
 Your solution should be a `.txt` file where each line specifies which block (by block ID) to drop in the field, and at which x-coordinate. To clarify, the *bottom left* of the block will be dropped at the provided x-coordinate in the field.
