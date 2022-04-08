@@ -71,7 +71,6 @@ The rewards are like follows:
 | 🟧     | "O"        | 5      | 3                     |
 | 🟥     | "R"        | 8      | 4                     |
 
-Good luck! 💪🏻
 
 ## Your Solution 💻
 
@@ -87,7 +86,10 @@ which tells us to first drop the block with `block_id = 322` at x-coordinate `54
 
 Submit your solution `.txt` at: https://dropblox.azurewebsites.net/submit.
 
-> Note: loading the website may take a moment. If loading fails, please try again.
+> Note: loading the website may take a moment - it sleeps when not used. If loading fails, please try again.
+
+<br>
+Good luck! 💪🏻
 
 ## Leaderboard 🏆
 
