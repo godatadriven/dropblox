@@ -32,8 +32,8 @@ G G G G G 0
 0 O 0 O O O 0 O 0 0 O 0
 3 2 G
 G G G 0 G 0
-2 3 G
-G 0 G G 0 0
+2 2 G
+G 0 G G
 5 4 O
 0 0 0 0 O O O O 0 O O 0 O O O 0 0 O 0 0
 5 5 P
@@ -86,8 +86,8 @@ P 0 P P P P 0 P 0 P P 0 P 0 P P P P 0 P
 0 0 R R 0 R R R 0 0 0 0 R R 0 0 R R R 0 0 0 0 R R
 4 3 O
 O O O O O 0 0 O O O O O
-3 2 G
-0 G G 0 G 0
+2 2 G
+G G G 0
 2 3 G
 0 G G G G G
 3 2 G
@@ -96,8 +96,8 @@ O O O O O 0 0 O O O O O
 P P P P P P 0 P 0 P 0 0 P 0 0 P P P P P P P 0 P P
 3 4 O
 O O O O 0 O O 0 O O O O
-2 3 G
-0 0 G G 0 G
+2 2 G
+G G 0 G
 3 3 Y
 Y 0 0 Y Y Y Y 0 0
 3 2 Y
@@ -112,8 +112,8 @@ G G
 G 0 G G G G
 4 4 P
 0 0 P 0 P P P P 0 0 P 0 0 0 P 0
-2 3 G
-0 0 G G 0 G
+2 2 G
+G G 0 G
 5 3 R
 0 R 0 R 0 R R R R R R 0 R 0 R
 4 2 R
@@ -180,8 +180,8 @@ O O 0 O O O 0 O O O
 0 G 0 G G G 0 G 0
 4 2 Y
 Y Y Y Y 0 Y 0 0
-2 3 G
-0 0 G G 0 G
+2 2 G
+G G 0 G
 3 5 O
 O O 0 0 O 0 0 O O O O 0 0 O O
 5 3 O
@@ -258,8 +258,8 @@ G 0 G G G G
 Y 0 0 Y Y Y Y 0 0
 4 3 O
 O O O O O 0 0 O O O O O
-2 3 G
-0 0 G G G 0
+2 2 G
+G G G 0
 3 3 Y
 Y Y 0 Y 0 0 Y Y Y
 1 1 G
@@ -348,8 +348,8 @@ Y 0 Y Y Y Y Y 0
 P 0 P 0 P P P P P P 0 P 0 P 0
 3 3 O
 O O O O 0 0 O O 0
-3 2 G
-G G 0 0 G 0
+2 2 G
+G G 0 G
 4 2 Y
 Y Y Y Y 0 Y Y 0
 3 3 Y
@@ -408,12 +408,12 @@ Y Y
 0 O O 0 O 0 O O 0 0 O O O O 0
 2 4 Y
 0 Y 0 Y Y Y 0 Y
-2 3 G
-0 0 G G G 0
+2 2 G
+G G G 0
 1 4 Y
 Y Y Y Y
-2 3 Y
-0 Y Y Y 0 0
+2 2 Y
+0 Y Y Y
 5 4 R
 0 0 0 R R 0 0 R R 0 0 R R 0 0 R R 0 0 0
 4 3 O
@@ -428,8 +428,8 @@ G G G G
 0 G G 0 G G G G
 1 1 G
 G
-2 3 Y
-Y 0 Y Y 0 0
+2 2 Y
+Y 0 Y Y
 5 5 P
 P P 0 P P P 0 0 P P P P P P 0 P 0 0 P P P P 0 P P
 3 3 G
@@ -494,8 +494,8 @@ O O 0 O 0 0 O O O
 0 P P P P 0 0 P P P P 0 0 P P
 3 5 P
 P P 0 0 P P P P 0 0 P P P P 0
-2 3 Y
-0 0 Y Y 0 Y
+2 2 Y
+Y Y 0 Y
 3 3 G
 0 G 0 0 G 0 G G G
 2 4 R
@@ -592,8 +592,8 @@ O O O O
 P 0 P P P P P 0
 3 3 O
 O O O O 0 O O O O
-2 3 G
-0 0 G G G 0
+2 2 G
+G G G 0
 3 5 P
 0 P P P P 0 0 P P P P 0 0 P P
 2 4 Y
@@ -614,8 +614,8 @@ G G G 0 G 0
 0 0 0 O 0 0 O O O O O 0 O O O O O O O O O O O 0 0 0 0 O 0 0
 5 5 P
 P P 0 P P P P P P P 0 0 P 0 0 P 0 P 0 P P P P P P
-3 2 Y
-0 Y 0 Y Y 0
+2 2 Y
+0 Y Y Y
 2 3 Y
 Y Y Y 0 Y 0
 3 4 P
@@ -708,8 +708,8 @@ Y Y Y Y Y 0
 P 0 P 0 0 P P P P P 0 P 0 0 P
 4 4 P
 0 0 P 0 P P P P 0 0 P 0 0 0 P 0
-3 2 Y
-Y Y 0 0 Y 0
+2 2 Y
+Y Y 0 Y
 1 2 Y
 Y Y
 2 3 G
@@ -748,8 +748,8 @@ Y Y
 Y 0 Y Y Y Y Y 0
 2 3 O
 0 O O O O O
-3 2 Y
-0 Y Y 0 Y 0
+2 2 Y
+Y Y Y 0
 3 3 Y
 0 Y 0 Y Y Y 0 Y 0
 5 3 P
@@ -810,8 +810,8 @@ R R 0 0 R R R R 0 0 R R R R 0
 G 0 G G G G G 0
 5 3 R
 R 0 R 0 R R R R R R 0 R 0 R 0
-2 3 G
-0 0 G G G 0
+2 2 G
+G G G 0
 3 4 O
 O O O O 0 O O 0 O O O O
 4 5 R
@@ -820,14 +820,14 @@ O O O O 0 O O 0 O O O O
 Y Y
 4 4 O
 0 O 0 0 O O O O 0 O 0 0 0 O 0 0
-2 3 G
-G 0 G G 0 0
+2 2 G
+G 0 G G
 4 5 P
 P 0 0 0 P P 0 0 0 P P 0 0 0 P P 0 0 0 P
 5 4 R
 0 0 0 R R 0 0 R R 0 0 R R 0 0 R R 0 0 0
-3 2 G
-0 G 0 G G 0
+2 2 G
+0 G G G
 5 3 P
 P 0 P 0 P P P P P P 0 P 0 P 0
 2 5 O
@@ -874,8 +874,8 @@ O O 0 O O O
 0 R R 0 R 0 R R 0
 3 5 P
 P P 0 0 P P P P 0 0 P 0 0 P P
-2 3 G
-G 0 G G 0 0
+2 2 G
+G 0 G G
 5 4 R
 R R R 0 R R 0 R 0 R R 0 R 0 R R 0 R R R
 3 5 P
@@ -924,16 +924,16 @@ O O 0 0 O 0 0 O O
 R R R 0 R R 0 R 0 R R 0 R 0 R R 0 R R R
 5 4 R
 R 0 R R R R 0 R 0 R R 0 R 0 R R R R 0 R
-2 3 Y
-Y 0 Y Y 0 0
+2 2 Y
+Y 0 Y Y
 2 4 P
 P 0 P P P 0 P 0
 4 2 P
 0 P P 0 P P P P
 5 3 R
 R 0 R 0 R R R R R R 0 R 0 R 0
-2 3 G
-0 0 G G G 0
+2 2 G
+G G G 0
 5 3 P
 0 P 0 P 0 P P P P P P 0 P 0 P
 3 2 Y
@@ -1128,8 +1128,8 @@ G 0 G 0 G G G 0
 0 O O 0 O O O O
 4 4 O
 0 O 0 0 O O O O 0 O 0 0 0 O 0 0
-2 3 G
-0 0 G G 0 G
+2 2 G
+G G 0 G
 4 2 O
 O 0 0 O O O O O
 2 3 Y
@@ -1198,22 +1198,22 @@ Y 0 Y Y Y 0
 G 0 G 0 G G G 0
 5 5 R
 0 0 R 0 0 0 R R R 0 R R 0 R R 0 R R R 0 0 0 R 0 0
-2 3 G
-0 0 G G G 0
+2 2 G
+G G G 0
 3 5 R
 0 R R 0 R 0 R R 0 0 R R R R 0
 3 4 Y
 0 Y Y 0 Y 0 0 Y 0 Y Y 0
-3 2 G
-G G 0 0 G 0
+2 2 G
+G G 0 G
 4 3 O
 0 0 O O 0 O O 0 O O 0 0
 3 3 Y
 Y Y Y 0 Y 0 0 Y 0
 2 4 Y
 0 Y Y Y 0 Y 0 Y
-2 3 Y
-0 0 Y Y 0 Y
+2 2 Y
+Y Y 0 Y
 1 1 G
 G
 5 5 P
@@ -1364,18 +1364,18 @@ Y Y Y 0 0 Y
 G G G G
 5 3 R
 R R R R 0 R R 0 R R R 0 R R 0
-2 3 G
-G 0 G G 0 0
+2 2 G
+G 0 G G
 5 3 O
 0 O O O O O O 0 O O 0 O O 0 O
 3 2 Y
 Y Y Y Y Y 0
 2 2 G
 G 0 G G
-3 2 R
-0 R R 0 R 0
-2 3 Y
-0 0 Y Y 0 Y
+2 2 R
+R R R 0
+2 2 Y
+Y Y 0 Y
 4 1 P
 P P P P
 2 2 P
@@ -1470,8 +1470,8 @@ G 0 G G G 0
 G G
 7 7 P
 0 0 0 P 0 0 0 0 0 P P P 0 0 0 P P 0 P P 0 P P P P P P P 0 P P 0 P P 0 0 0 P P P 0 0 0 0 0 P 0 0 0
-2 3 G
-0 0 G G 0 G
+2 2 G
+G G 0 G
 4 5 R
 R 0 0 0 R R 0 0 0 R R 0 0 0 R R 0 0 0 R
 2 2 O
@@ -1504,8 +1504,8 @@ O O 0 O 0 0 O O O
 0 G 0 G G G 0 G 0
 4 6 O
 0 0 O O 0 0 O O 0 O O 0 0 O O 0 O O 0 0 O O 0 0
-3 2 Y
-0 Y 0 0 Y Y
+2 2 Y
+Y 0 Y Y
 2 3 Y
 Y Y Y Y Y 0
 2 3 O
@@ -1518,8 +1518,8 @@ R R 0 0 R R R R 0 0 R R R R 0
 0 0 0 R 0 0 R R 0 R R 0 R R 0 0 R 0 0 0
 2 2 Y
 Y Y Y 0
-3 2 Y
-Y Y 0 0 Y 0
+2 2 Y
+Y Y 0 Y
 2 5 O
 O O O 0 O O O 0 O O
 4 2 G
@@ -1550,8 +1550,8 @@ P P 0 0 P P P P 0 0 P P P P 0
 0 O 0 0 O 0 O O O 0 O 0
 4 3 O
 0 0 O O 0 O O 0 O O 0 0
-2 3 Y
-0 Y Y Y 0 0
+2 2 Y
+0 Y Y Y
 5 4 R
 R 0 R R R R 0 R 0 R R 0 R 0 R R R R 0 R
 5 5 R
@@ -1582,8 +1582,8 @@ Y Y 0 Y Y Y
 0 G 0 G G G 0 G 0
 4 4 P
 0 0 P 0 P P P P 0 0 P 0 0 0 P 0
-3 2 G
-0 G 0 0 G G
+2 2 G
+G 0 G G
 4 2 G
 0 G G 0 G G G G
 3 3 O
@@ -1632,8 +1632,8 @@ P P 0 P P P P P P P 0 0 P 0 0 P 0 P 0 P P P P P P
 G 0 G G G 0 G 0
 5 4 O
 0 0 O 0 0 O 0 O O O O O O 0 O 0 0 0 0 O
-2 3 Y
-0 0 Y Y 0 Y
+2 2 Y
+Y Y 0 Y
 3 5 R
 0 R R R R 0 0 R R R R 0 0 R R
 2 3 O
@@ -1712,8 +1712,8 @@ G G
 Y Y Y Y
 2 5 O
 O O 0 O O O 0 O O O
-3 2 G
-G G 0 0 G 0
+2 2 G
+G G 0 G
 3 5 R
 R R 0 0 R R R R 0 0 R R R R 0
 5 3 P
@@ -1766,8 +1766,8 @@ O O O O O O 0 O 0 O
 Y 0 0 Y Y Y
 3 3 Y
 0 Y 0 Y Y Y 0 Y 0
-2 3 Y
-0 0 Y Y 0 Y
+2 2 Y
+Y Y 0 Y
 5 4 R
 R R 0 0 0 0 R R 0 0 0 0 R R 0 0 0 0 R R
 4 3 P
@@ -1872,8 +1872,8 @@ G 0 G G G 0
 Y
 2 1 Y
 Y Y
-3 2 Y
-0 Y 0 Y Y 0
+2 2 Y
+0 Y Y Y
 5 3 P
 0 P 0 P 0 P P P P P P 0 P 0 P
 7 7 R
@@ -1884,8 +1884,8 @@ O 0 O O O O
 0 0 Y Y Y Y 0 0 Y
 4 5 R
 0 R R 0 0 0 R 0 R R R 0 0 R 0 0 0 R R R
-3 2 G
-0 G 0 0 G G
+2 2 G
+G 0 G G
 3 2 Y
 0 Y 0 Y Y Y
 2 5 O
@@ -1996,8 +1996,8 @@ O O O O O 0 0 O O O O O
 Y Y
 4 2 Y
 Y Y Y Y 0 Y Y 0
-2 3 Y
-Y 0 Y Y 0 0
+2 2 Y
+Y 0 Y Y
 3 3 P
 0 P 0 P P P 0 P 0
 4 2 Y
@@ -2008,8 +2008,8 @@ Y Y
 0 0 P 0 0 0 P 0 P P P P 0 0 P 0
 3 5 R
 0 R R R R 0 0 R R R R 0 0 R R
-2 3 G
-0 0 G G 0 G
+2 2 G
+G G 0 G
 2 3 O
 O O 0 O O O
 2 5 O
@@ -2050,8 +2050,8 @@ G
 Y 0 Y Y
 3 2 Y
 Y Y 0 Y Y Y
-3 2 G
-0 G 0 G G 0
+2 2 G
+0 G G G
 4 3 O
 O 0 0 0 O O O O 0 0 0 O
 3 3 G
@@ -2102,8 +2102,8 @@ G G G G 0 G G 0
 Y 0 0 Y Y Y
 2 5 P
 P P P 0 P P P 0 P P
-2 3 O
-0 0 O O 0 O
+2 2 O
+O O 0 O
 5 4 P
 P P 0 0 0 0 P P 0 0 0 0 P P 0 0 0 0 P P
 2 4 G
@@ -2112,8 +2112,8 @@ G G G 0 G 0 G G
 Y Y Y Y Y 0
 3 5 R
 R R R 0 R R R 0 R R R R 0 R 0
-3 2 G
-0 G 0 0 G G
+2 2 G
+G 0 G G
 3 5 O
 O O O O O 0 O 0 O O O O 0 O 0
 2 4 G
@@ -2328,16 +2328,16 @@ Y Y 0 Y Y Y
 0 R R R R 0 0 R R R R 0 0 R R
 4 4 R
 0 R 0 0 0 R 0 0 R R R R 0 R 0 0
-2 3 Y
-Y 0 Y Y 0 0
+2 2 Y
+Y 0 Y Y
 3 2 O
 O O O O 0 0
 5 5 P
 P P P P P P 0 P 0 P 0 0 P 0 0 P P P P P P P 0 P P
 4 1 G
 G G G G
-2 3 Y
-0 Y Y Y 0 0
+2 2 Y
+0 Y Y Y
 2 1 G
 G G
 4 2 O
@@ -2374,8 +2374,8 @@ O O 0 0 O 0 0 O 0 0 O O
 Y Y
 3 2 G
 G G 0 G G G
-3 2 G
-0 G 0 0 G G
+2 2 G
+G 0 G G
 4 5 R
 R R R 0 0 0 R 0 0 R R R 0 R 0 0 0 R R 0
 3 2 Y
@@ -2432,8 +2432,8 @@ G G
 0 R 0 0 0 0 R 0 R 0 R R R R 0 R 0 R R R 0 0 0 0 R
 4 4 O
 0 O 0 0 0 O 0 0 O O O O 0 O 0 0
-3 2 G
-0 G G 0 G 0
+2 2 G
+G G G 0
 3 5 P
 P P P 0 P 0 0 P 0 P P P 0 P 0
 4 2 Y
@@ -2460,8 +2460,8 @@ O O 0 O O O
 0 Y 0 Y Y Y 0 Y
 2 3 Y
 Y Y 0 Y 0 Y
-2 3 Y
-0 Y Y Y 0 0
+2 2 Y
+0 Y Y Y
 2 3 G
 0 G G G 0 G
 5 5 R
@@ -2512,8 +2512,8 @@ O O O 0 O O O 0 O O
 O O O O 0 O O 0 O O O O
 4 3 P
 0 P 0 0 P P P P 0 P 0 0
-3 2 Y
-0 Y 0 Y Y 0
+2 2 Y
+0 Y Y Y
 3 2 G
 0 G G G G G
 5 4 R
@@ -2596,8 +2596,8 @@ G 0 G G G 0
 0 0 G G G G G 0 0
 5 3 R
 R 0 R 0 R R R R R R 0 R 0 R 0
-2 3 G
-G 0 G G 0 0
+2 2 G
+G 0 G G
 3 5 O
 O O 0 0 O O O O 0 0 O 0 0 O O
 4 4 P
@@ -2682,8 +2682,8 @@ Y Y
 0 G G G G G
 3 2 G
 G G G G 0 G
-2 3 Y
-0 0 Y Y 0 Y
+2 2 Y
+Y Y 0 Y
 2 4 O
 O O O 0 O 0 O O
 5 5 P
@@ -2748,8 +2748,8 @@ O O O O 0 O O O O
 G G G G 0 G G 0
 3 3 G
 0 G 0 G G G 0 G 0
-2 3 G
-0 0 G G 0 G
+2 2 G
+G G 0 G
 3 2 G
 G G 0 G G G
 4 3 P
@@ -2898,8 +2898,8 @@ O 0 O O O O
 O 0 0 O 0 O O O O O 0 0 O 0 O
 2 3 G
 0 G G G G G
-2 3 Y
-Y 0 Y Y 0 0
+2 2 Y
+Y 0 Y Y
 5 5 P
 P P 0 P P P 0 0 P P P P P P 0 P 0 0 P P P P 0 P P
 3 4 O
@@ -2940,8 +2940,8 @@ O O 0 O O O 0 O O O
 0 P 0 0 P P P P P P 0 P 0 0 P
 2 3 G
 G G G G 0 G
-3 2 Y
-0 Y 0 0 Y Y
+2 2 Y
+Y 0 Y Y
 1 2 Y
 Y Y
 4 2 G
@@ -2976,8 +2976,8 @@ P P P 0 P P P 0 P P
 Y 0 Y 0 Y Y Y 0
 3 3 G
 G 0 0 G G G G 0 0
-2 3 Y
-Y 0 Y Y 0 0
+2 2 Y
+Y 0 Y Y
 2 5 O
 O O O 0 O O O 0 O O
 3 3 R
