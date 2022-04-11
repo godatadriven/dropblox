@@ -1,6 +1,6 @@
 # 🟨🟦🟥 DropBlox 🟩🟧🟪 
 
-Welcome! I'm assuming you came here to give this coding challenge a try, great! After all, you could be the one to take home the big price... So, let's get right to it!
+Welcome! I'm assuming you came here to give this coding challenge a try, great! After all, you could be the one to take home the big prize... So, let's get right to it!
 
 ## Quickstart 🎬
 
