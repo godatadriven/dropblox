@@ -1,6 +1,7 @@
 import dataclasses
 from dataclasses import dataclass
 from typing import Dict, List, Optional
+from copy import deepcopy
 
 import numpy as np
 
@@ -105,8 +106,7 @@ class Field:
             return False
 
         # select area of the field where the block should fit
-        selected_field_area = self.values[y: y +
-                                          block.height, x: x + block.width]
+        selected_field_area = self.values[y : y + block.height, x : x + block.width]
         for block_row, field_row in zip(block.values, selected_field_area):
             for block_value, field_value in zip(block_row, field_row):
                 # block fits if: field value or block value is an empty string
@@ -117,12 +117,87 @@ class Field:
     def update(self, block: Block, x: int, y: int) -> None:
         """Update the field by dropping the block on position (x,y)"""
         for update_y, block_row in zip(range(y, y + block.height), block.values):
-            field_row = self.values[update_y][x: x + block.width]
+            field_row = self.values[update_y][x : x + block.width]
 
             # make sure we don't overwrite an existing field block if the block
             # has an empty space where in the field the value is filled
             new_row = [f if f else b for f, b in zip(field_row, block_row)]
-            self.values[update_y][x: x + block.width] = new_row
+            self.values[update_y][x : x + block.width] = new_row
+
+    def does_block_fit(self, block: Block, x: int) -> bool:
+        """
+        Tells you whether it's possible to drop this block at this given position.
+
+        A drop **cannot** be dropped if:
+        - This specific block was already used
+        - It does not fit on the given x-coordinate. This can mean that:
+            - the block was placed outside the field boundaries
+            - the block was obstructed by other blocks already stacked vertically
+
+        Args:
+            - block (Block): the block you'd like to drop
+            - x (int): the coordinate you would like to drop it at.
+        """
+        field_copy = deepcopy(self)
+
+        try:
+            field_copy.drop_block(block, x)
+            return True
+        except:
+            return False
+
+    def get_drop_distance(self, block: Block, x: int) -> int:
+        """
+        Returns the distance the block would travel, if dropped on the given x-coordinate.
+
+        Args:
+            - block (Block): the block you'd like to drop
+            - x (int): the coordinate you would like to drop it at.
+        """
+        y = self.height - block.height
+        fits_somewhere = False
+        while self.fit(block, x, y):
+            fits_somewhere = True
+            y -= 1
+
+        if not fits_somewhere:
+            raise Exception(f"{block} does not fit on x: {x}")
+
+        distance: int = self.height - (y + 1) - block.height
+
+        return distance
+
+    def get_number_of_dead_cells(self) -> int:
+        """
+        Get amount of dead cells in field. That is: the amount of cells in which no
+        block can be dropped anymore. This is all the whitespace in the field with
+        any block above it.
+        """
+        dead_cells: int = 0
+
+        for x in range(self.width):
+            column = self.values[:, x]
+            where_non_empty = np.where(column != "")[0]
+            if len(where_non_empty) == 0:  # no dead cells
+                continue
+            last_block_idx = where_non_empty[-1]
+            dead_cells_in_column = (column[:last_block_idx] == "").sum()
+            dead_cells += dead_cells_in_column
+
+        return dead_cells
+
+    def num_filled_rows(self) -> int:
+        """
+        Get the amount of completely filled rows in the field. That is, a row is filled
+        if the entire y-coordinate (row) is filled with blocks. This yields bonus points.
+        """
+        num_full = 0
+
+        for row in self.values[1:-1, 1:-1]:
+            if not np.any(row == ""):
+                num_full += 1
+
+        return num_full
 
     def drop_block(self, block: Block, x: int) -> None:
         """Try to add the block on position x;
@@ -153,7 +228,9 @@ class Field:
         if (max(solution.block_ids) >= len(blocks)) or (min(solution.block_ids) < 0):
             raise Exception("You used a block id that doesn't exist")
 
-        for block_id, block_position in zip(solution.block_ids, solution.block_positions):
+        for block_id, block_position in zip(
+            solution.block_ids, solution.block_positions
+        ):
             self.drop_block(blocks[block_id], block_position)
 
     def score_row(self, row: np.array, rewards: Rewards) -> int:
@@ -166,7 +243,9 @@ class Field:
                     score += rewards.points[color]
             return score
 
-        def multiplication_factor_for_full_color_row(row: list, rewards: Rewards) -> int:
+        def multiplication_factor_for_full_color_row(
+            row: list, rewards: Rewards
+        ) -> int:
             if row[0] != "" and len(set(row)) == 1:
                 return rewards.multiplication_factors[row[0]]
             return 1
@@ -189,7 +268,5 @@ class Field:
     def write_solution(self, filename: str) -> None:
         """Write an output file containing a solution block list"""
         with open(filename, "w") as fp:
-            for block_id, block_position in zip(
-                self.block_ids, self.block_positions
-            ):
+            for block_id, block_position in zip(self.block_ids, self.block_positions):
                 print(f"{block_id} {block_position}", file=fp)
