@@ -100,4 +100,4 @@ https://dropblox.azurewebsites.net/leaderboard
 dropblox@godatadriven.com
 
 ## About
-> This challenge is hosted by [GoDataDriven](https://godatadriven.com/) for PyConDE & PyData Berlin 2022.
+> This challenge is hosted by [GoDataDriven](https://godatadriven.com/) for PyData Eindhoven 2022.
