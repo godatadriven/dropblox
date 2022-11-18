@@ -186,6 +186,22 @@ class Field:
 
         return dead_cells
 
+    def get_random_undropped_block(self, blocks: List[Block]) -> Block:
+        """
+        Get a random block of the list of blocks provided, that is not yet dropped into
+        the field.
+
+        Args:
+            - blocks (List[Block]): The list of blocks for which you'd like to select
+            a random block.
+        """
+
+        undropped_blocks: List[Block] = list(
+            filter(lambda block: block.block_id not in self.block_ids, blocks)
+        )
+        random_undropped_block: Block = np.random.choice(undropped_blocks)
+        return random_undropped_block
+
     def num_filled_rows(self) -> int:
         """
         Get the amount of completely filled rows in the field. That is, a row is filled
